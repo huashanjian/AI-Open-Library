@@ -41,7 +41,7 @@ This textbook introduces modeling and control strategies for underactuated robot
 
 **推荐读者/Recommended For**: 机器人学习初学者、具身智能研究者、对动力系统控制建模感兴趣的工程专业学生。/ Beginner roboticists, embodied AI researchers, and engineering students interested in control and dynamical modeling.
 
-**链接/Link**: [../_library/UNDERACTUATED ROBOTICS book.pdf](../_library/UNDERACTUATED%20ROBOTICS%20book.pdf)
+**链接/Link**: [../_library/UNDERACTUATED ROBOTICS book.pdf](../_library/UNDERACTUATED ROBOTICS book.pdf)
 
 ---
 
