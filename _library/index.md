@@ -29,7 +29,7 @@ This work experimentally reveals that deep networks can generalize well on test 
 📂 所属主题 Topics:  
 [00 世界模型与具身智能 World Models & Embodied AI]  
 [02 强化学习 Reinforcement Learning]  
-📄 [点击查看 PDF · View PDF](./UNDERACTUATED ROBOTICS book.pdf)  
+📄 [点击查看 PDF · View PDF](./UNDERACTUATED%20ROBOTICS%20book.pdf)  
 ✍️ 作者 Author: Russ Tedrake (MIT OpenCourseWare)  
 🏷️ 标签 Tags: robotics / dynamics / underactuation  
 👥 推荐读者 Recommended For:  
@@ -47,7 +47,7 @@ This textbook introduces modeling and control strategies for underactuated robot
 [03 多智能体学习 Multi-Agent Learning]  
 [02 强化学习 Reinforcement Learning]  
 [04 AI 基础理论 Foundations of AI]  
-📄 [点击查看 PDF · View PDF](./MULTI-AGENT RL Book.pdf)  
+📄 [点击查看 PDF · View PDF](./MULTI-AGENT%20RL%20Book.pdf)  
 ✍️ 作者 Authors: Michael L. Littman, Liviu Panait, Jakob Foerster, et al.  
 🏷️ 标签 Tags: MARL / coordination / game theory  
 👥 推荐读者 Recommended For:  

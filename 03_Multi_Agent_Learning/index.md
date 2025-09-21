@@ -41,7 +41,7 @@ This book systematically outlines the foundations and algorithms of multi-agent 
 
 **推荐读者/Recommended For**: 已具备强化学习基础、关注多智能体协作和博弈建模的学习者和研究者。/ For readers with RL foundations, interested in multi-agent coordination, game-theoretic modeling, and scalable learning.
 
-**链接/Link**: [../_library/MULTI-AGENT RL Book.pdf](../_library/MULTI-AGENT RL Book.pdf)
+**链接/Link**: [../_library/MULTI-AGENT RL Book.pdf](../_library/MULTI-AGENT%20RL%20Book.pdf)
 
 ---
 
