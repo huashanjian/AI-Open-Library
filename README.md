@@ -73,7 +73,8 @@ Thanks to everyone who starred this project - your support drives our continuous
 本项目是一个长期维护的开放项目，欢迎任何形式的交流、建议或内容贡献。
 
 **📚 如何贡献资料：**
-* 📖 **完整资料目录**: [library_catalog.md](./library_catalog.md) - 查看所有已收录资源和贡献者致谢
+* 📖 **完整资料目录**: [_library/index.md](./_library/index.md) - 查看所有已收录资源（按时间排序）
+* 🏆 **贡献者致谢**: [library_catalog.md](./library_catalog.md) - 感谢所有为项目贡献资料的朋友们
 * 🤝 **贡献指南**: [CONTRIBUTING.md](./CONTRIBUTING.md) - 详细的资料推荐流程和格式要求
 * 📧 **邮件推荐**: junhuayao41@gmail.com
 * 🐙 **GitHub Issue**: [提交资料推荐](https://github.com/huashanjian/AI-Open-Library/issues)
@@ -140,7 +141,8 @@ We hope AI-Open-Library can serve as a stable and reliable point of reference, h
 This is a long-term, open project. Any form of discussion, suggestion, or content contribution is welcome.
 
 **📚 How to Contribute Resources:**
-* 📖 **Complete Resource Catalog**: [library_catalog.md](./library_catalog.md) - View all resources and contributor credits
+* 📖 **Complete Resource Directory**: [_library/index.md](./_library/index.md) - View all collected resources (chronologically sorted)
+* 🏆 **Contributor Acknowledgments**: [library_catalog.md](./library_catalog.md) - Thank all friends who contributed resources
 * 🤝 **Contribution Guide**: [CONTRIBUTING.md](./CONTRIBUTING.md) - Detailed process and format requirements
 * 📧 **Email Recommendations**: [junhuayao41@gmail.com](mailto:junhuayao41@gmail.com)
 * 🐙 **GitHub Issues**: [Submit Resource Suggestions](https://github.com/huashanjian/AI-Open-Library/issues)
