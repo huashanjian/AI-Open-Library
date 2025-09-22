@@ -28,9 +28,17 @@ Multi-agent learning is an important branch of artificial intelligence that stud
 
 ## 精选资料 / Curated Resources
 
-### 📚 经典教材 / Classic Textbooks
+### � 经典精选 / Canonical Picks
 
+- Multiagent Systems (Shoham & Leyton-Brown) — 多智能体系统经典教材。/ Classic textbook. [查看 View](../_library/Multiagent_Systems_Shoham_Leyton_Brown.pdf)
+- QMIX Monotonic Value Function Factorisation — MARL 代表性算法。/ Representative MARL algorithm. [查看 View](../_library/QMIX_Monotonic_Value_Function_Factorisation_for_Deep_Multi-Agent_Reinforcement_Learning.pdf)
+- Counterfactual Multi-Agent Policy Gradients — COMA 算法。/ COMA algorithm. [查看 View](../_library/Counterfactual_Multi-Agent_Policy_Gradients.pdf)
+
+### �📚 经典教材 / Classic Textbooks
+
+ 
 #### Multi-Agent Reinforcement Learning Foundations
+
 **作者/Authors**: Michael L. Littman, Liviu Panait, Jakob Foerster, et al.  
 **年份/Year**: 2024  
 **标签/Tags**: `多智能体强化学习` `协调` `博弈论` `MARL` `Coordination` `Game Theory`
@@ -41,18 +49,18 @@ This book systematically outlines the foundations and algorithms of multi-agent 
 
 **推荐读者/Recommended For**: 已具备强化学习基础、关注多智能体协作和博弈建模的学习者和研究者。/ For readers with RL foundations, interested in multi-agent coordination, game-theoretic modeling, and scalable learning.
 
-**链接/Link**: [../_library/MULTI-AGENT_RL_Book.pdf](../_library/MULTI-AGENT_RL_Book.pdf)
+**链接/Link**: [../_library/Multi-Agent_Reinforcement_Learning_Foundations.pdf](../_library/Multi-Agent_Reinforcement_Learning_Foundations.pdf)
 
 ---
 
 ### 📄 更多资料 / More Resources
 
-- The StarCraft Multi-Agent Challenge — SC2 多智能体挑战。/ SMAC benchmark. [查看 View](../_library/The%20StarCraft%20Multi-Agent%20Challenge.pdf)
-- The Hanabi Challenge — Hanabi 协作挑战。/ Hanabi benchmark. [查看 View](../_library/The%20Hanabi%20Challenge%20A%20New%20Frontier%20for%20AI%20Research.pdf)
-- The Surprising Effectiveness of PPO in Cooperative, Multi-Agent Games — 多智能体协作中 PPO 的有效性。/ PPO in cooperative MARL. [查看 View](../_library/The%20Surprising%20Effectiveness%20of%20PPO%20in%20Cooperative%2C%20Multi-Agent%20Games.pdf)
-- Counterfactual Multi-Agent Policy Gradients — COMA 算法。/ COMA algorithm. [查看 View](../_library/Counterfactual%20Multi-Agent%20Policy%20Gradients.pdf)
-- Value-Decomposition Networks For Cooperative Multi-Agent Learning — VDN。/ Value decomposition. [查看 View](../_library/Value-Decomposition%20Networks%20For%20Cooperative%20Multi-Agent%20Learning.pdf)
-- QMIX Monotonic Value Function Factorisation — QMIX。/ Monotonic value factorization. [查看 View](../_library/QMIX%20Monotonic%20Value%20Function%20Factorisation%20for%20Deep%20Multi-Agent%20Reinforcement%20Learning.pdf)
+- The StarCraft Multi-Agent Challenge — SC2 多智能体挑战。/ SMAC benchmark. [查看 View](../_library/The_StarCraft_Multi-Agent_Challenge.pdf)
+- The Hanabi Challenge — Hanabi 协作挑战。/ Hanabi benchmark. [查看 View](../_library/The_Hanabi_Challenge_A_New_Frontier_for_AI_Research.pdf)
+- The Surprising Effectiveness of PPO in Cooperative, Multi-Agent Games — 多智能体协作中 PPO 的有效性。/ PPO in cooperative MARL. [查看 View](../_library/The_Surprising_Effectiveness_of_PPO_in_Cooperative,_Multi-Agent_Games.pdf)
+- Counterfactual Multi-Agent Policy Gradients — COMA 算法。/ COMA algorithm. [查看 View](../_library/Counterfactual_Multi-Agent_Policy_Gradients.pdf)
+- Value-Decomposition Networks For Cooperative Multi-Agent Learning — VDN。/ Value decomposition. [查看 View](../_library/Value-Decomposition_Networks_For_Cooperative_Multi-Agent_Learning.pdf)
+- QMIX Monotonic Value Function Factorisation — QMIX。/ Monotonic value factorization. [查看 View](../_library/QMIX_Monotonic_Value_Function_Factorisation_for_Deep_Multi-Agent_Reinforcement_Learning.pdf)
 
 
 ## 相关主题 / Related Topics
@@ -77,4 +85,4 @@ Study specific MARL algorithm implementations in depth, pay attention to the lat
 
 ---
 
-最后更新 / Last Updated: 2025年9月21日 / September 21, 2025
+最后更新 / Last Updated: 2025年9月22日 / September 22, 2025

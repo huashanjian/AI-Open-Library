@@ -28,6 +28,13 @@ Reinforcement learning is an important branch of machine learning that studies h
 
 ## 精选资料 / Curated Resources
 
+### 📌 经典精选 / Canonical Picks
+
+- Playing Atari with Deep Reinforcement Learning — 深度 Q 网络开山之作，奠定深度RL基础。/ DQN seminal paper laying the foundation of deep RL. [查看 View](../_library/Playing_Atari_with_Deep_Reinforcement_Learning.pdf)
+- Proximal Policy Optimization Algorithms — 简单稳定的策略梯度基线。/ A simple and stable policy-gradient baseline. [查看 View](../_library/Proximal_Policy_Optimization_Algorithms.pdf)
+- Soft Actor-Critic Algorithms and Applications — 最大熵RL，连续控制表现强劲且稳健。/ Max-entropy RL with strong, robust continuous-control performance. [查看 View](../_library/Soft_Actor-Critic_Algorithms_and_Applications.pdf)
+- Model-based Reinforcement Learning: A Survey — 模型式RL全景综述与研究地图。/ A panoramic survey of model-based RL. [查看 View](../_library/Model-based_Reinforcement_Learning_A_Survey.pdf)
+
 ### 📚 相关资料 / Related Materials
 
 本主题的资料分散在相关主题文件夹中，请参考：
@@ -35,6 +42,7 @@ Reinforcement learning is an important branch of machine learning that studies h
 The materials for this topic are distributed across related topic folders, please refer to:
 
 #### 欠驱动机器人控制中的强化学习 / RL in Underactuated Robot Control
+
 强化学习在机器人控制中的应用，特别是欠驱动系统的控制策略学习。
 
 Applications of reinforcement learning in robot control, especially control strategy learning for underactuated systems.
@@ -42,6 +50,7 @@ Applications of reinforcement learning in robot control, especially control stra
 **参考资料/Reference**: [世界模型与具身智能](../00_World_Models_and_Embodied_AI/) - Underactuated Robotics
 
 #### 多智能体强化学习 / Multi-Agent Reinforcement Learning
+
 多个智能体在共享环境中的学习与协作，包括竞争与合作策略。
 
 Learning and collaboration of multiple agents in shared environments, including competitive and cooperative strategies.
@@ -52,14 +61,14 @@ Learning and collaboration of multiple agents in shared environments, including 
 
 ### 📄 更多资料 / More Resources
 
-- Playing Atari with Deep Reinforcement Learning — 深度 Q 网络开山之作。/ DQN seminal paper. [查看 View](../_library/Playing%20Atari%20with%20Deep%20Reinforcement%20Learning.pdf)
-- Proximal Policy Optimization Algorithms — PPO 论文。/ PPO paper. [查看 View](../_library/Proximal%20Policy%20Optimization%20Algorithms.pdf)
-- Soft Actor-Critic Algorithms and Applications — SAC 论文。/ SAC paper. [查看 View](../_library/Soft%20Actor-Critic%20Algorithms%20and%20Applications.pdf)
-- The Surprising Effectiveness of PPO in Cooperative, Multi-Agent Games — 多智能体环境下 PPO 的有效性。/ PPO in MARL. [查看 View](../_library/The%20Surprising%20Effectiveness%20of%20PPO%20in%20Cooperative%2C%20Multi-Agent%20Games.pdf)
-- Value-Decomposition Networks For Cooperative Multi-Agent Learning — VDN。/ VDN for cooperative MARL. [查看 View](../_library/Value-Decomposition%20Networks%20For%20Cooperative%20Multi-Agent%20Learning.pdf)
-- QMIX Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning — QMIX。/ QMIX for MARL. [查看 View](../_library/QMIX%20Monotonic%20Value%20Function%20Factorisation%20for%20Deep%20Multi-Agent%20Reinforcement%20Learning.pdf)
-- Decision Transformer Reinforcement Learning via Sequence Modeling — 决策 Transformer。/ Decision Transformer. [查看 View](../_library/Decision%20Transformer%20Reinforcement%20Learning%20via%20Sequence%20Modeling.pdf)
-- Model-based Reinforcement Learning A Survey — 模型化强化学习综述。/ Survey on MBRL. [查看 View](../_library/Model-based%20Reinforcement%20Learning%20A%20Survey.pdf)
+- Playing Atari with Deep Reinforcement Learning — 深度 Q 网络开山之作。/ DQN seminal paper. [查看 View](../_library/Playing_Atari_with_Deep_Reinforcement_Learning.pdf)
+- Proximal Policy Optimization Algorithms — PPO 论文。/ PPO paper. [查看 View](../_library/Proximal_Policy_Optimization_Algorithms.pdf)
+- Soft Actor-Critic Algorithms and Applications — SAC 论文。/ SAC paper. [查看 View](../_library/Soft_Actor-Critic_Algorithms_and_Applications.pdf)
+- The Surprising Effectiveness of PPO in Cooperative, Multi-Agent Games — 多智能体环境下 PPO 的有效性。/ PPO in MARL. [查看 View](../_library/The_Surprising_Effectiveness_of_PPO_in_Cooperative,_Multi-Agent_Games.pdf)
+- Value-Decomposition Networks For Cooperative Multi-Agent Learning — VDN。/ VDN for cooperative MARL. [查看 View](../_library/Value-Decomposition_Networks_For_Cooperative_Multi-Agent_Learning.pdf)
+- QMIX Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning — QMIX。/ QMIX for MARL. [查看 View](../_library/QMIX_Monotonic_Value_Function_Factorisation_for_Deep_Multi-Agent_Reinforcement_Learning.pdf)
+- Decision Transformer Reinforcement Learning via Sequence Modeling — 决策 Transformer。/ Decision Transformer. [查看 View](../_library/Decision_Transformer_Reinforcement_Learning_via_Sequence_Modeling.pdf)
+- Model-based Reinforcement Learning A Survey — 模型化强化学习综述。/ Survey on MBRL. [查看 View](../_library/Model-based_Reinforcement_Learning_A_Survey.pdf)
 
 
 ## 相关主题 / Related Topics
@@ -85,4 +94,4 @@ Study deep reinforcement learning algorithms in depth, explore practical methods
 
 ---
 
-最后更新 / Last Updated: 2025年9月21日 / September 21, 2025
+最后更新 / Last Updated: 2025年9月22日 / September 22, 2025

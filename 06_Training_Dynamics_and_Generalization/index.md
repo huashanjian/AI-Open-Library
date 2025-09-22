@@ -28,9 +28,17 @@ Training dynamics and generalization mechanisms are core areas of deep learning 
 
 ## 精选资料 / Curated Resources
 
-### 📄 重要论文 / Key Papers
+### � 经典精选 / Canonical Picks
 
+- Understanding Deep Learning Requires Rethinking Generalization — 训练拟合与泛化悖论的经典实验研究。/ Classic experimental study on generalization. [查看 View](../_library/Understanding_Deep_Learning_Requires_Rethinking_Generalization.pdf)
+- Batch Normalization — 训练动态与优化稳定性的关键方法。/ Key method impacting training dynamics. [查看 View](../_library/Batch_Normalization_Accelerating_Deep_Network_Training_by_Reducing_Internal_Covariate_Shift.pdf)
+- Scaling Laws for Neural Language Models — 规模定律的重要发现。/ Important discovery on scaling laws. [查看 View](../_library/Scaling_Laws_for_Neural_Language_Models.pdf)
+
+### �📄 重要论文 / Key Papers
+
+ 
 #### Understanding Deep Learning Requires Rethinking Generalization
+
 **作者/Authors**: Chiyuan Zhang, Samy Bengio, Yoram Singer, et al.  
 **年份/Year**: 2017/2025  
 **标签/Tags**: `泛化理论` `深度学习` `过拟合` `Generalization` `Deep Learning` `Overfitting`
@@ -41,17 +49,17 @@ This work experimentally reveals that deep networks can generalize well on test 
 
 **推荐读者/Recommended For**: 对深度网络训练行为感兴趣的学习者，尤其是对"为何能拟合全部数据却仍泛化"问题感兴趣的研究者。/ For learners interested in the training behavior of deep networks, especially those puzzled by "perfect fitting yet strong generalization".
 
-**链接/Link**: [../_library/UnderstandingDeepLearning_05_29_25_C.pdf](../_library/UnderstandingDeepLearning_05_29_25_C.pdf)
+**链接/Link**: [../_library/Understanding_Deep_Learning_Requires_Rethinking_Generalization.pdf](../_library/Understanding_Deep_Learning_Requires_Rethinking_Generalization.pdf)
 
 ---
 
 ### 📄 更多资料 / More Resources
 
-- Scaling Laws for Neural Language Models — 规模定律。/ Scaling laws. [查看 View](../_library/Scaling%20Laws%20for%20Neural%20Language%20Models.pdf)
-- Double Descent 相关：Simple and Effective VAE Training with Calibrated Decoders — 关联训练/泛化现象。/ Training-generalization phenomena. [查看 View](../_library/Simple%20and%20Effective%20VAE%20Training%20with%20Calibrated%20Decoders.pdf)
-- Layer Normalization — 训练稳定与信号尺度。/ Stabilization via normalization. [查看 View](../_library/Layer%20Normalization.pdf)
-- Batch Normalization — 归一化与优化动态。/ Normalization and optimization dynamics. [查看 View](../_library/Batch%20Normalization%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift.pdf)
-- SGDR — 学习率调度对训练动态的影响。/ LR scheduling and training dynamics. [查看 View](../_library/SGDR%20Stochastic%20Gradient%20Descent%20with%20Warm%20Restarts.pdf)
+- Scaling Laws for Neural Language Models — 规模定律。/ Scaling laws. [查看 View](../_library/Scaling_Laws_for_Neural_Language_Models.pdf)
+- Double Descent 相关：Simple and Effective VAE Training with Calibrated Decoders — 关联训练/泛化现象。/ Training-generalization phenomena. [查看 View](../_library/Simple_and_Effective_VAE_Training_with_Calibrated_Decoders.pdf)
+- Layer Normalization — 训练稳定与信号尺度。/ Stabilization via normalization. [查看 View](../_library/Layer_Normalization.pdf)
+- Batch Normalization — 归一化与优化动态。/ Normalization and optimization dynamics. [查看 View](../_library/Batch_Normalization_Accelerating_Deep_Network_Training_by_Reducing_Internal_Covariate_Shift.pdf)
+- SGDR — 学习率调度对训练动态的影响。/ LR scheduling and training dynamics. [查看 View](../_library/SGDR_Stochastic_Gradient_Descent_with_Warm_Restarts.pdf)
 
 
 ## 相关主题 / Related Topics
@@ -76,4 +84,4 @@ Study specific theoretical analysis tools and experimental methods in depth, pay
 
 ---
 
-最后更新 / Last Updated: 2025年9月21日 / September 21, 2025
+最后更新 / Last Updated: 2025年9月22日 / September 22, 2025

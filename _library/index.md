@@ -12,7 +12,7 @@
 📂 所属主题 Topics:  
 [06 训练动态与泛化机制 Training Dynamics & Generalization]  
 [01 深度学习基础 Deep Learning]  
-📄 [点击查看 PDF · View PDF](./UnderstandingDeepLearning_05_29_25_C.pdf)  
+📄 [点击查看 PDF · View PDF](./Understanding_Deep_Learning_Requires_Rethinking_Generalization.pdf)  
 ✍️ 作者 Authors: Chiyuan Zhang, Samy Bengio, Yoram Singer, et al.  
 🏷️ 标签 Tags: generalization / deep learning / overfitting  
 👥 推荐读者 Recommended For:  
@@ -29,7 +29,7 @@ This work experimentally reveals that deep networks can generalize well on test 
 📂 所属主题 Topics:  
 [00 世界模型与具身智能 World Models & Embodied AI]  
 [02 强化学习 Reinforcement Learning]  
-📄 [点击查看 PDF · View PDF](./UNDERACTUATED_ROBOTICS_book.pdf)  
+📄 [点击查看 PDF · View PDF](./Underactuated_Robotics_Russ_Tedrake.pdf)  
 ✍️ 作者 Author: Russ Tedrake (MIT OpenCourseWare)  
 🏷️ 标签 Tags: robotics / dynamics / underactuation  
 👥 推荐读者 Recommended For:  
@@ -47,7 +47,7 @@ This textbook introduces modeling and control strategies for underactuated robot
 [03 多智能体学习 Multi-Agent Learning]  
 [02 强化学习 Reinforcement Learning]  
 [04 AI 基础理论 Foundations of AI]  
-📄 [点击查看 PDF · View PDF](./MULTI-AGENT_RL_Book.pdf)  
+📄 [点击查看 PDF · View PDF](./Multi-Agent_Reinforcement_Learning_Foundations.pdf)  
 ✍️ 作者 Authors: Michael L. Littman, Liviu Panait, Jakob Foerster, et al.  
 🏷️ 标签 Tags: MARL / coordination / game theory  
 👥 推荐读者 Recommended For:  
@@ -63,23 +63,23 @@ This book systematically outlines the foundations and algorithms of multi-agent 
 
 ## 📄 更多资源 · More Resources
 
-- World Models — [View](./World%20Models.pdf)
-- Mastering Diverse Domains through World Models — [View](./Mastering%20Diverse%20Domains%20through%20World%20Models.pdf)
-- Mastering Atari with Discrete World Models — [View](./Mastering%20Atari%20with%20Discrete%20World%20Models.pdf)
-- Dream to Control Learning Behaviors by Latent Imagination — [View](./Dream%20to%20Control%20Learning%20Behaviors%20by%20Latent%20Imagination.pdf)
-- Learning Latent Dynamics for Planning from Pixels — [View](./Learning%20Latent%20Dynamics%20for%20Planning%20from%20Pixels.pdf)
-- What Does it Mean for a Neural Network to Learn a World Model — [View](./What%20Does%20it%20Mean%20for%20a%20Neural%20Network%20to%20Learn%20a%20World%20Model.pdf)
-- World Knowledge from AI Image Generation for Robot Control — [View](./World%20Knowledge%20from%20AI%20Image%20Generation%20for%20Robot%20Control.pdf)
-- Playing Atari with Deep Reinforcement Learning — [View](./Playing%20Atari%20with%20Deep%20Reinforcement%20Learning.pdf)
-- Proximal Policy Optimization Algorithms — [View](./Proximal%20Policy%20Optimization%20Algorithms.pdf)
-- Soft Actor-Critic Algorithms and Applications — [View](./Soft%20Actor-Critic%20Algorithms%20and%20Applications.pdf)
-- The Surprising Effectiveness of PPO in Cooperative, Multi-Agent Games — [View](./The%20Surprising%20Effectiveness%20of%20PPO%20in%20Cooperative%2C%20Multi-Agent%20Games.pdf)
-- Value-Decomposition Networks For Cooperative Multi-Agent Learning — [View](./Value-Decomposition%20Networks%20For%20Cooperative%20Multi-Agent%20Learning.pdf)
-- QMIX Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning — [View](./QMIX%20Monotonic%20Value%20Function%20Factorisation%20for%20Deep%20Multi-Agent%20Reinforcement%20Learning.pdf)
-- Model-based Reinforcement Learning A Survey — [View](./Model-based%20Reinforcement%20Learning%20A%20Survey.pdf)
-- Deep Residual Learning for Image Recognition — [View](./Deep%20Residual%20Learning%20for%20Image%20Recognition.pdf)
-- Batch Normalization — [View](./Batch%20Normalization%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift.pdf)
-- Layer Normalization — [View](./Layer%20Normalization.pdf)
-- Adam A Method for Stochastic Optimization — [View](./Adam%20A%20Method%20for%20Stochastic%20Optimization.pdf)
-- SGDR Stochastic Gradient Descent with Warm Restarts — [View](./SGDR%20Stochastic%20Gradient%20Descent%20with%20Warm%20Restarts.pdf)
-- Scaling Laws for Neural Language Models — [View](./Scaling%20Laws%20for%20Neural%20Language%20Models.pdf)
+- World Models — [View](./World_Models.pdf) — (Ha & Schmidhuber)
+- Mastering Diverse Domains through World Models — [View](./Mastering_Diverse_Domains_through_World_Models.pdf)
+- Mastering Atari with Discrete World Models — [View](./Mastering_Atari_with_Discrete_World_Models.pdf) — (ICLR 2021)
+- Dream to Control Learning Behaviors by Latent Imagination — [View](./Dream_to_Control_Learning_Behaviors_by_Latent_Imagination.pdf) — (ICLR 2020)
+- Learning Latent Dynamics for Planning from Pixels — [View](./Learning_Latent_Dynamics_for_Planning_from_Pixels.pdf)
+- What Does it Mean for a Neural Network to Learn a World Model — [View](./What_Does_it_Mean_for_a_Neural_Network_to_Learn_a_World_Model.pdf) — (Li, Viegas & Wattenberg)
+- World Knowledge from AI Image Generation for Robot Control — [View](./World_Knowledge_from_AI_Image_Generation_for_Robot_Control.pdf)
+- Playing Atari with Deep Reinforcement Learning — [View](./Playing_Atari_with_Deep_Reinforcement_Learning.pdf)
+- Proximal Policy Optimization Algorithms — [View](./Proximal_Policy_Optimization_Algorithms.pdf)
+- Soft Actor-Critic Algorithms and Applications — [View](./Soft_Actor-Critic_Algorithms_and_Applications.pdf)
+- The Surprising Effectiveness of PPO in Cooperative, Multi-Agent Games — [View](./The_Surprising_Effectiveness_of_PPO_in_Cooperative,_Multi-Agent_Games.pdf)
+- Value-Decomposition Networks For Cooperative Multi-Agent Learning — [View](./Value-Decomposition_Networks_For_Cooperative_Multi-Agent_Learning.pdf)
+- QMIX Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning — [View](./QMIX_Monotonic_Value_Function_Factorisation_for_Deep_Multi-Agent_Reinforcement_Learning.pdf) — (Rashid et al.)
+- Model-based Reinforcement Learning A Survey — [View](./Model-based_Reinforcement_Learning_A_Survey.pdf)
+- Deep Residual Learning for Image Recognition — [View](./Deep_Residual_Learning_for_Image_Recognition.pdf)
+- Batch Normalization — [View](./Batch_Normalization_Accelerating_Deep_Network_Training_by_Reducing_Internal_Covariate_Shift.pdf) — (2015)
+- Layer Normalization — [View](./Layer_Normalization.pdf)
+- Adam A Method for Stochastic Optimization — [View](./Adam_A_Method_for_Stochastic_Optimization.pdf) — (Kingma & Ba)
+- SGDR Stochastic Gradient Descent with Warm Restarts — [View](./SGDR_Stochastic_Gradient_Descent_with_Warm_Restarts.pdf) — (ICLR 2017)
+- Scaling Laws for Neural Language Models — [View](./Scaling_Laws_for_Neural_Language_Models.pdf)

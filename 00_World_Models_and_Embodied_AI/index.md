@@ -28,9 +28,15 @@ World models and embodied AI represent cutting-edge directions in artificial int
 
 ## 精选资料 / Curated Resources
 
-### 📚 经典教材 / Classic Textbooks
+### � 经典精选 / Canonical Picks
+
+- Underactuated Robotics — 欠驱动机器人学经典教材，具身智能与控制的基础。/ Classic textbook on underactuated robotics and control foundations. [查看 View](../_library/Underactuated_Robotics_Russ_Tedrake.pdf)
+- World Models — 世界模型里程碑论文，提出“想象-计划-控制”范式。/ Landmark paper introducing generative world models for control. [查看 View](../_library/World_Models.pdf)
+
+### �📚 经典教材 / Classic Textbooks
 
 #### Underactuated Robotics
+
 **作者/Author**: Russ Tedrake (MIT OpenCourseWare)  
 **年份/Year**: 2024  
 **标签/Tags**: `机器人学` `动力学` `欠驱动` `Robotics` `Dynamics` `Underactuation`
@@ -41,17 +47,17 @@ This textbook introduces modeling and control strategies for underactuated robot
 
 **推荐读者/Recommended For**: 机器人学习初学者、具身智能研究者、对动力系统控制建模感兴趣的工程专业学生。/ Beginner roboticists, embodied AI researchers, and engineering students interested in control and dynamical modeling.
 
-**链接/Link**: [../_library/UNDERACTUATED_ROBOTICS_book.pdf](../_library/UNDERACTUATED_ROBOTICS_book.pdf)
+**链接/Link**: [../_library/Underactuated_Robotics_Russ_Tedrake.pdf](../_library/Underactuated_Robotics_Russ_Tedrake.pdf)
 
-### 📄 更多资料 / More Resources
+### 📄 更多资源 / More Resources
 
-- World Models — 探索以生成模型为核心的控制与规划范式。/ Pioneering framework using generative models for control and planning. [查看 View](../_library/World%20Models.pdf)
-- Mastering Diverse Domains through World Models — 使用世界模型在多样场景中泛化。/ Generalization across domains via world models. [查看 View](../_library/Mastering%20Diverse%20Domains%20through%20World%20Models.pdf)
-- Mastering Atari with Discrete World Models — 基于离散世界模型征服 Atari。/ Discrete world models for Atari mastery. [查看 View](../_library/Mastering%20Atari%20with%20Discrete%20World%20Models.pdf)
-- Dream to Control: Learning Behaviors by Latent Imagination — 通过潜在想象实现控制策略学习。/ Learn control via latent imagination. [查看 View](../_library/Dream%20to%20Control%20Learning%20Behaviors%20by%20Latent%20Imagination.pdf)
-- Learning Latent Dynamics for Planning from Pixels — 从像素学习潜在动力学以用于规划。/ Learn latent dynamics for pixel-based planning. [查看 View](../_library/Learning%20Latent%20Dynamics%20for%20Planning%20from%20Pixels.pdf)
-- What Does it Mean for a Neural Network to Learn a World Model — 讨论“何为世界模型”。/ On what it means to learn a world model. [查看 View](../_library/What%20Does%20it%20Mean%20for%20a%20Neural%20Network%20to%20Learn%20a%20World%20Model.pdf)
-- World Knowledge from AI Image Generation for Robot Control — 通过图像生成获得可用于控制的世界知识。/ Extract world knowledge for robot control from AI image generation. [查看 View](../_library/World%20Knowledge%20from%20AI%20Image%20Generation%20for%20Robot%20Control.pdf)
+- World Models — 探索以生成模型为核心的控制与规划范式。/ Pioneering framework using generative models for control and planning. [查看 View](../_library/World_Models.pdf)
+- Mastering Diverse Domains through World Models — 使用世界模型在多样场景中泛化。/ Generalization across domains via world models. [查看 View](../_library/Mastering_Diverse_Domains_through_World_Models.pdf)
+- Mastering Atari with Discrete World Models — 基于离散世界模型征服 Atari。/ Discrete world models for Atari mastery. [查看 View](../_library/Mastering_Atari_with_Discrete_World_Models.pdf)
+- Dream to Control: Learning Behaviors by Latent Imagination — 通过潜在想象实现控制策略学习。/ Learn control via latent imagination. [查看 View](../_library/Dream_to_Control_Learning_Behaviors_by_Latent_Imagination.pdf)
+- Learning Latent Dynamics for Planning from Pixels — 从像素学习潜在动力学以用于规划。/ Learn latent dynamics for pixel-based planning. [查看 View](../_library/Learning_Latent_Dynamics_for_Planning_from_Pixels.pdf)
+- What Does it Mean for a Neural Network to Learn a World Model — 讨论“何为世界模型”。/ On what it means to learn a world model. [查看 View](../_library/What_Does_it_Mean_for_a_Neural_Network_to_Learn_a_World_Model.pdf)
+- World Knowledge from AI Image Generation for Robot Control — 通过图像生成获得可用于控制的世界知识。/ Extract world knowledge for robot control from AI image generation. [查看 View](../_library/World_Knowledge_from_AI_Image_Generation_for_Robot_Control.pdf)
 
 ---
 
@@ -77,4 +83,4 @@ Study specific control algorithm implementations in depth, practice with simulat
 
 ---
 
-最后更新 / Last Updated: 2025年9月21日 / September 21, 2025
+最后更新 / Last Updated: 2025年9月22日 / September 22, 2025

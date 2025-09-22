@@ -2,9 +2,13 @@
 
 ## 精选资料 / Curated Resources
 
-### 📄 更多资料 / More Resources
+### � 经典精选 / Canonical Picks
 
-- Software Engineering for Machine Learning — 机器学习工程实践。/ ML engineering practices. [查看 View](../_library/Software%20Engineering%20for%20Machine%20Learning.pdf)
+- Software Engineering for Machine Learning — 机器学习工程实践要点。/ Key practices for ML engineering. [查看 View](../_library/Software_Engineering_for_Machine_Learning.pdf)
+
+### �📄 更多资料 / More Resources
+
+- Software Engineering for Machine Learning — 机器学习工程实践。/ ML engineering practices. [查看 View](../_library/Software_Engineering_for_Machine_Learning.pdf)
 
 ---
 

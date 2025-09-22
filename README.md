@@ -18,7 +18,18 @@ Thanks to everyone who starred this project - your support drives our continuous
 
 ---
 
-#### **📖 中文简介**
+## 🧭 快速导航 / Quick Navigation
+
+| 链接 Links | 链接 Links | 链接 Links |
+| --- | --- | --- |
+| [00 世界模型与具身智能 / 00 World Models & Embodied AI](./00_World_Models_and_Embodied_AI/) | [01 深度学习 / 01 Deep Learning](./01_Deep_Learning/) | [02 强化学习 / 02 Reinforcement Learning](./02_Reinforcement_Learning/) |
+| [03 多智能体学习 / 03 Multi-Agent Learning](./03_Multi_Agent_Learning/) | [04 AI 基础理论 / 04 AI Foundations](./04_AI_Foundations/) | [05 LLM 与 Transformer / 05 LLMs & Transformers](./05_LLMs_and_Transformers/) |
+| [06 训练动态与泛化机制 / 06 Training Dynamics & Generalization](./06_Training_Dynamics_and_Generalization/) | [07 AI 伦理与社会 / 07 AI Ethics & Society](./07_AI_Ethics_and_Society/) | [08 科研写作与投稿 / 08 Research Writing & Publishing](./08_Research_Writing_and_Publishing/) |
+| [09 交互式工具与可视化 / 09 Tools & Interactive Demos](./09_Tools_and_Interactive_Demos/) | [10 论文整理与精读笔记 / 10 Paper Collections & Summaries](./10_Paper_Collections_and_Summaries/) | [📚 全部资料目录 / All Resources](./_library/index.md) |
+
+---
+
+### **📖 中文简介**
 
 人工智能领域的学习资源日益增多，但系统性的知识结构却相对稀缺。
 
@@ -73,13 +84,16 @@ Thanks to everyone who starred this project - your support drives our continuous
 本项目是一个长期维护的开放项目，欢迎任何形式的交流、建议或内容贡献。
 
 **📚 如何贡献资料：**
+
 * 📖 **完整资料目录**: [_library/index.md](./_library/index.md) - 查看所有已收录资源（按时间排序）
 * 🏆 **贡献者致谢**: [library_catalog.md](./library_catalog.md) - 感谢所有为项目贡献资料的朋友们
 * 🤝 **贡献指南**: [CONTRIBUTING.md](./CONTRIBUTING.md) - 详细的资料推荐流程和格式要求
-* 📧 **邮件推荐**: junhuayao41@gmail.com
+* 📧 **邮件推荐**: [junhuayao41@gmail.com](mailto:junhuayao41@gmail.com)
 * 🐙 **GitHub Issue**: [提交资料推荐](https://github.com/huashanjian/AI-Open-Library/issues)
 
+
 **🔗 项目链接：**
+
 * **GitHub 仓库:** [https://github.com/huashanjian/AI-Open-Library](https://github.com/huashanjian/AI-Open-Library)
 * **Google Drive:** [https://drive.google.com/drive/folders/1_uWzRVqDXBG7pgoN7Re3BgmLShe0yHST?usp=sharing](https://drive.google.com/drive/folders/1_uWzRVqDXBG7pgoN7Re3BgmLShe0yHST?usp=sharing)
 * **个人主页:** [https://huashanjian.github.io/](https://huashanjian.github.io/)
@@ -141,6 +155,7 @@ We hope AI-Open-Library can serve as a stable and reliable point of reference, h
 This is a long-term, open project. Any form of discussion, suggestion, or content contribution is welcome.
 
 **📚 How to Contribute Resources:**
+
 * 📖 **Complete Resource Directory**: [_library/index.md](./_library/index.md) - View all collected resources (chronologically sorted)
 * 🏆 **Contributor Acknowledgments**: [library_catalog.md](./library_catalog.md) - Thank all friends who contributed resources
 * 🤝 **Contribution Guide**: [CONTRIBUTING.md](./CONTRIBUTING.md) - Detailed process and format requirements
@@ -148,6 +163,7 @@ This is a long-term, open project. Any form of discussion, suggestion, or conten
 * 🐙 **GitHub Issues**: [Submit Resource Suggestions](https://github.com/huashanjian/AI-Open-Library/issues)
 
 **🔗 Project Links:**
+
 * **GitHub Repository:** [https://github.com/huashanjian/AI-Open-Library](https://github.com/huashanjian/AI-Open-Library)
 * **Google Drive:** [https://drive.google.com/drive/folders/1_uWzRVqDXBG7pgoN7Re3BgmLShe0yHST?usp=sharing](https://drive.google.com/drive/folders/1_uWzRVqDXBG7pgoN7Re3BgmLShe0yHST?usp=sharing)
 * **Personal Homepage:** [https://huashanjian.github.io/](https://huashanjian.github.io/)

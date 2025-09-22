@@ -28,9 +28,17 @@ Deep learning is the core technology of modern artificial intelligence, using mu
 
 ## 精选资料 / Curated Resources
 
-### 📚 经典教材 / Classic Textbooks
+### � 经典精选 / Canonical Picks
 
+- Deep Residual Learning for Image Recognition — ResNet 里程碑论文。/ ResNet milestone paper. [查看 View](../_library/Deep_Residual_Learning_for_Image_Recognition.pdf)
+- Batch Normalization — 训练稳定性和速度的里程碑。/ Landmark method for stable and fast training. [查看 View](../_library/Batch_Normalization_Accelerating_Deep_Network_Training_by_Reducing_Internal_Covariate_Shift.pdf)
+- Adam: A Method for Stochastic Optimization — 随机优化经典算法。/ Classic optimizer. [查看 View](../_library/Adam_A_Method_for_Stochastic_Optimization.pdf)
+
+### �📚 经典教材 / Classic Textbooks
+
+ 
 #### Understanding Deep Learning Requires Rethinking Generalization
+
 **作者/Authors**: Chiyuan Zhang, Samy Bengio, Yoram Singer, et al.  
 **年份/Year**: 2025  
 **标签/Tags**: `泛化理论` `深度学习` `过拟合` `Generalization` `Deep Learning` `Overfitting`
@@ -41,18 +49,18 @@ This work experimentally reveals that deep networks can generalize well on test 
 
 **推荐读者/Recommended For**: 对深度网络训练行为感兴趣的学习者，尤其是对"为何能拟合全部数据却仍泛化"问题感兴趣的研究者。/ For learners interested in the training behavior of deep networks, especially those puzzled by "perfect fitting yet strong generalization".
 
-**链接/Link**: [../_library/UnderstandingDeepLearning_05_29_25_C.pdf](../_library/UnderstandingDeepLearning_05_29_25_C.pdf)
+**链接/Link**: [../_library/Understanding_Deep_Learning_Requires_Rethinking_Generalization.pdf](../_library/Understanding_Deep_Learning_Requires_Rethinking_Generalization.pdf)
 
 ---
 
 ### 📄 更多资料 / More Resources
 
-- Deep Residual Learning for Image Recognition — ResNet 里程碑论文。/ ResNet milestone paper. [查看 View](../_library/Deep%20Residual%20Learning%20for%20Image%20Recognition.pdf)
-- Batch Normalization — 训练稳定性和速度的重要方法。/ BN for stable and fast training. [查看 View](../_library/Batch%20Normalization%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift.pdf)
-- Layer Normalization — 变长序列上的归一化方法。/ Normalization for sequences. [查看 View](../_library/Layer%20Normalization.pdf)
-- Adam Optimizer — 随机优化领域的经典算法。/ Classic algorithm in stochastic optimization. [查看 View](../_library/Adam%20A%20Method%20for%20Stochastic%20Optimization.pdf)
-- SGDR — 余弦退火与重启的技巧。/ Cosine annealing with restarts. [查看 View](../_library/SGDR%20Stochastic%20Gradient%20Descent%20with%20Warm%20Restarts.pdf)
-- Software Engineering for Machine Learning — ML 工程化指南。/ Engineering practices for ML. [查看 View](../_library/Software%20Engineering%20for%20Machine%20Learning.pdf)
+- Deep Residual Learning for Image Recognition — ResNet 里程碑论文。/ ResNet milestone paper. [查看 View](../_library/Deep_Residual_Learning_for_Image_Recognition.pdf)
+- Batch Normalization — 训练稳定性和速度的重要方法。/ BN for stable and fast training. [查看 View](../_library/Batch_Normalization_Accelerating_Deep_Network_Training_by_Reducing_Internal_Covariate_Shift.pdf)
+- Layer Normalization — 变长序列上的归一化方法。/ Normalization for sequences. [查看 View](../_library/Layer_Normalization.pdf)
+- Adam Optimizer — 随机优化领域的经典算法。/ Classic algorithm in stochastic optimization. [查看 View](../_library/Adam_A_Method_for_Stochastic_Optimization.pdf)
+- SGDR — 余弦退火与重启的技巧。/ Cosine annealing with restarts. [查看 View](../_library/SGDR_Stochastic_Gradient_Descent_with_Warm_Restarts.pdf)
+- Software Engineering for Machine Learning — ML 工程化指南。/ Engineering practices for ML. [查看 View](../_library/Software_Engineering_for_Machine_Learning.pdf)
 
 
 ## 相关主题 / Related Topics
@@ -77,4 +85,4 @@ Study the design principles of various network architectures in depth, understan
 
 ---
 
-最后更新 / Last Updated: 2025年9月21日 / September 21, 2025
+最后更新 / Last Updated: 2025年9月22日 / September 22, 2025
