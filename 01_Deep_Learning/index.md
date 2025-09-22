@@ -64,15 +64,17 @@ This work experimentally reveals that deep networks can generalize well on test 
 ## 学习建议 / Study Recommendations
 
 ### 对于初学者 / For Beginners
+
 建议从线性模型和基础概念开始，逐步理解神经网络的工作原理。重点关注数学基础的建立。
 
 Start with linear models and basic concepts, gradually understanding how neural networks work. Focus on building mathematical foundations.
 
 ### 对于进阶学习者 / For Advanced Learners
+
 深入研究各种网络架构的设计原理，理解不同优化方法的适用场景，并通过实践项目加深理解。特别关注泛化理论的最新发展。
 
 Study the design principles of various network architectures in depth, understand the applicable scenarios of different optimization methods, and deepen understanding through practical projects. Pay special attention to the latest developments in generalization theory.
 
 ---
 
-*最后更新 / Last Updated: 2025年9月21日 / September 21, 2025*
+最后更新 / Last Updated: 2025年9月21日 / September 21, 2025

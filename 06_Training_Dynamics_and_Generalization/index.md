@@ -63,15 +63,17 @@ This work experimentally reveals that deep networks can generalize well on test 
 ## 学习建议 / Study Recommendations
 
 ### 对于初学者 / For Beginners
+
 建议先掌握基本的机器学习理论和深度学习基础，了解经典的统计学习理论，然后深入学习现代泛化理论。
 
 Start with basic machine learning theory and deep learning foundations, understand classical statistical learning theory, then dive into modern generalization theory.
 
 ### 对于进阶学习者 / For Advanced Learners
+
 深入研究具体的理论分析工具和实验方法，关注最新的理论进展，特别是神经正切核、彩票票据假设等前沿理论。
 
 Study specific theoretical analysis tools and experimental methods in depth, pay attention to the latest theoretical developments, especially cutting-edge theories like neural tangent kernels and lottery ticket hypothesis.
 
 ---
 
-*最后更新 / Last Updated: 2025年9月21日 / September 21, 2025*
+最后更新 / Last Updated: 2025年9月21日 / September 21, 2025

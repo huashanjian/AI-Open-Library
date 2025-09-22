@@ -64,15 +64,17 @@ This textbook introduces modeling and control strategies for underactuated robot
 ## 学习建议 / Study Recommendations
 
 ### 对于初学者 / For Beginners
+
 建议先掌握基本的物理和数学基础，然后从简单的机械系统开始学习，逐步理解动力学原理。
 
 Start with basic physics and mathematics, then learn from simple mechanical systems to gradually understand dynamics principles.
 
 ### 对于进阶学习者 / For Advanced Learners
+
 深入研究具体的控制算法实现，结合仿真环境进行实践，探索如何将理论应用于实际机器人系统。
 
 Study specific control algorithm implementations in depth, practice with simulation environments, and explore how to apply theory to real robotic systems.
 
 ---
 
-*最后更新 / Last Updated: 2025年9月21日 / September 21, 2025*
+最后更新 / Last Updated: 2025年9月21日 / September 21, 2025

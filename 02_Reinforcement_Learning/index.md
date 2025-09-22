@@ -72,15 +72,17 @@ Learning and collaboration of multiple agents in shared environments, including 
 ## 学习建议 / Study Recommendations
 
 ### 对于初学者 / For Beginners
+
 建议从马尔可夫决策过程的数学基础开始，理解强化学习的核心概念，然后学习基本的算法如Q-learning。
 
 Start with the mathematical foundations of Markov decision processes, understand core concepts of reinforcement learning, then learn basic algorithms like Q-learning.
 
 ### 对于进阶学习者 / For Advanced Learners
+
 深入学习深度强化学习算法，探索在具体应用领域（如机器人控制、多智能体系统）中的实践方法。
 
 Study deep reinforcement learning algorithms in depth, explore practical methods in specific application domains such as robot control and multi-agent systems.
 
 ---
 
-*最后更新 / Last Updated: 2025年9月21日 / September 21, 2025*
+最后更新 / Last Updated: 2025年9月21日 / September 21, 2025

@@ -64,15 +64,17 @@ This book systematically outlines the foundations and algorithms of multi-agent 
 ## 学习建议 / Study Recommendations
 
 ### 对于初学者 / For Beginners
+
 建议先掌握单智能体强化学习的基础知识，然后学习博弈论的基本概念，再进入多智能体学习领域。
 
 It is recommended to first master the fundamentals of single-agent reinforcement learning, then learn basic concepts of game theory, before entering the field of multi-agent learning.
 
 ### 对于进阶学习者 / For Advanced Learners
+
 深入研究具体的MARL算法实现，关注最新的研究进展，特别是深度学习在多智能体系统中的应用。重点学习协调机制和通信策略的设计。
 
 Study specific MARL algorithm implementations in depth, pay attention to the latest research developments, especially the application of deep learning in multi-agent systems. Focus on coordination mechanisms and communication strategy design.
 
 ---
 
-*最后更新 / Last Updated: 2025年9月21日 / September 21, 2025*
+最后更新 / Last Updated: 2025年9月21日 / September 21, 2025
