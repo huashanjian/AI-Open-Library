@@ -45,6 +45,16 @@ This work experimentally reveals that deep networks can generalize well on test 
 
 ---
 
+### 📄 更多资料 / More Resources
+
+- Deep Residual Learning for Image Recognition — ResNet 里程碑论文。/ ResNet milestone paper. [查看 View](../_library/Deep%20Residual%20Learning%20for%20Image%20Recognition.pdf)
+- Batch Normalization — 训练稳定性和速度的重要方法。/ BN for stable and fast training. [查看 View](../_library/Batch%20Normalization%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift.pdf)
+- Layer Normalization — 变长序列上的归一化方法。/ Normalization for sequences. [查看 View](../_library/Layer%20Normalization.pdf)
+- Adam Optimizer — 随机优化领域的经典算法。/ Classic algorithm in stochastic optimization. [查看 View](../_library/Adam%20A%20Method%20for%20Stochastic%20Optimization.pdf)
+- SGDR — 余弦退火与重启的技巧。/ Cosine annealing with restarts. [查看 View](../_library/SGDR%20Stochastic%20Gradient%20Descent%20with%20Warm%20Restarts.pdf)
+- Software Engineering for Machine Learning — ML 工程化指南。/ Engineering practices for ML. [查看 View](../_library/Software%20Engineering%20for%20Machine%20Learning.pdf)
+
+
 ## 相关主题 / Related Topics
 
 - **训练动态与泛化机制** / Training Dynamics and Generalization → [../06_Training_Dynamics_and_Generalization/](../06_Training_Dynamics_and_Generalization/)

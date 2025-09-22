@@ -57,3 +57,29 @@ For readers with RL foundations, interested in multi-agent coordination, game-th
 📝 简介 Summary:  
 本书系统梳理了多智能体强化学习的基础理论与算法，包括 centralized critic、self-play、自组织合作等重要机制。  
 This book systematically outlines the foundations and algorithms of multi-agent reinforcement learning, including centralized critic, self-play, and emergent cooperation mechanisms.
+
+
+---
+
+## 📄 更多资源 · More Resources
+
+- World Models — [View](./World%20Models.pdf)
+- Mastering Diverse Domains through World Models — [View](./Mastering%20Diverse%20Domains%20through%20World%20Models.pdf)
+- Mastering Atari with Discrete World Models — [View](./Mastering%20Atari%20with%20Discrete%20World%20Models.pdf)
+- Dream to Control Learning Behaviors by Latent Imagination — [View](./Dream%20to%20Control%20Learning%20Behaviors%20by%20Latent%20Imagination.pdf)
+- Learning Latent Dynamics for Planning from Pixels — [View](./Learning%20Latent%20Dynamics%20for%20Planning%20from%20Pixels.pdf)
+- What Does it Mean for a Neural Network to Learn a World Model — [View](./What%20Does%20it%20Mean%20for%20a%20Neural%20Network%20to%20Learn%20a%20World%20Model.pdf)
+- World Knowledge from AI Image Generation for Robot Control — [View](./World%20Knowledge%20from%20AI%20Image%20Generation%20for%20Robot%20Control.pdf)
+- Playing Atari with Deep Reinforcement Learning — [View](./Playing%20Atari%20with%20Deep%20Reinforcement%20Learning.pdf)
+- Proximal Policy Optimization Algorithms — [View](./Proximal%20Policy%20Optimization%20Algorithms.pdf)
+- Soft Actor-Critic Algorithms and Applications — [View](./Soft%20Actor-Critic%20Algorithms%20and%20Applications.pdf)
+- The Surprising Effectiveness of PPO in Cooperative, Multi-Agent Games — [View](./The%20Surprising%20Effectiveness%20of%20PPO%20in%20Cooperative%2C%20Multi-Agent%20Games.pdf)
+- Value-Decomposition Networks For Cooperative Multi-Agent Learning — [View](./Value-Decomposition%20Networks%20For%20Cooperative%20Multi-Agent%20Learning.pdf)
+- QMIX Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning — [View](./QMIX%20Monotonic%20Value%20Function%20Factorisation%20for%20Deep%20Multi-Agent%20Reinforcement%20Learning.pdf)
+- Model-based Reinforcement Learning A Survey — [View](./Model-based%20Reinforcement%20Learning%20A%20Survey.pdf)
+- Deep Residual Learning for Image Recognition — [View](./Deep%20Residual%20Learning%20for%20Image%20Recognition.pdf)
+- Batch Normalization — [View](./Batch%20Normalization%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift.pdf)
+- Layer Normalization — [View](./Layer%20Normalization.pdf)
+- Adam A Method for Stochastic Optimization — [View](./Adam%20A%20Method%20for%20Stochastic%20Optimization.pdf)
+- SGDR Stochastic Gradient Descent with Warm Restarts — [View](./SGDR%20Stochastic%20Gradient%20Descent%20with%20Warm%20Restarts.pdf)
+- Scaling Laws for Neural Language Models — [View](./Scaling%20Laws%20for%20Neural%20Language%20Models.pdf)

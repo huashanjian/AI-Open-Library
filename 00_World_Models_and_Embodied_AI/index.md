@@ -43,6 +43,16 @@ This textbook introduces modeling and control strategies for underactuated robot
 
 **链接/Link**: [../_library/UNDERACTUATED_ROBOTICS_book.pdf](../_library/UNDERACTUATED_ROBOTICS_book.pdf)
 
+### 📄 更多资料 / More Resources
+
+- World Models — 探索以生成模型为核心的控制与规划范式。/ Pioneering framework using generative models for control and planning. [查看 View](../_library/World%20Models.pdf)
+- Mastering Diverse Domains through World Models — 使用世界模型在多样场景中泛化。/ Generalization across domains via world models. [查看 View](../_library/Mastering%20Diverse%20Domains%20through%20World%20Models.pdf)
+- Mastering Atari with Discrete World Models — 基于离散世界模型征服 Atari。/ Discrete world models for Atari mastery. [查看 View](../_library/Mastering%20Atari%20with%20Discrete%20World%20Models.pdf)
+- Dream to Control: Learning Behaviors by Latent Imagination — 通过潜在想象实现控制策略学习。/ Learn control via latent imagination. [查看 View](../_library/Dream%20to%20Control%20Learning%20Behaviors%20by%20Latent%20Imagination.pdf)
+- Learning Latent Dynamics for Planning from Pixels — 从像素学习潜在动力学以用于规划。/ Learn latent dynamics for pixel-based planning. [查看 View](../_library/Learning%20Latent%20Dynamics%20for%20Planning%20from%20Pixels.pdf)
+- What Does it Mean for a Neural Network to Learn a World Model — 讨论“何为世界模型”。/ On what it means to learn a world model. [查看 View](../_library/What%20Does%20it%20Mean%20for%20a%20Neural%20Network%20to%20Learn%20a%20World%20Model.pdf)
+- World Knowledge from AI Image Generation for Robot Control — 通过图像生成获得可用于控制的世界知识。/ Extract world knowledge for robot control from AI image generation. [查看 View](../_library/World%20Knowledge%20from%20AI%20Image%20Generation%20for%20Robot%20Control.pdf)
+
 ---
 
 ## 相关主题 / Related Topics

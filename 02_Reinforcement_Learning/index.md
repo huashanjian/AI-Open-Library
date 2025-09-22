@@ -50,6 +50,18 @@ Learning and collaboration of multiple agents in shared environments, including 
 
 ---
 
+### 📄 更多资料 / More Resources
+
+- Playing Atari with Deep Reinforcement Learning — 深度 Q 网络开山之作。/ DQN seminal paper. [查看 View](../_library/Playing%20Atari%20with%20Deep%20Reinforcement%20Learning.pdf)
+- Proximal Policy Optimization Algorithms — PPO 论文。/ PPO paper. [查看 View](../_library/Proximal%20Policy%20Optimization%20Algorithms.pdf)
+- Soft Actor-Critic Algorithms and Applications — SAC 论文。/ SAC paper. [查看 View](../_library/Soft%20Actor-Critic%20Algorithms%20and%20Applications.pdf)
+- The Surprising Effectiveness of PPO in Cooperative, Multi-Agent Games — 多智能体环境下 PPO 的有效性。/ PPO in MARL. [查看 View](../_library/The%20Surprising%20Effectiveness%20of%20PPO%20in%20Cooperative%2C%20Multi-Agent%20Games.pdf)
+- Value-Decomposition Networks For Cooperative Multi-Agent Learning — VDN。/ VDN for cooperative MARL. [查看 View](../_library/Value-Decomposition%20Networks%20For%20Cooperative%20Multi-Agent%20Learning.pdf)
+- QMIX Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning — QMIX。/ QMIX for MARL. [查看 View](../_library/QMIX%20Monotonic%20Value%20Function%20Factorisation%20for%20Deep%20Multi-Agent%20Reinforcement%20Learning.pdf)
+- Decision Transformer Reinforcement Learning via Sequence Modeling — 决策 Transformer。/ Decision Transformer. [查看 View](../_library/Decision%20Transformer%20Reinforcement%20Learning%20via%20Sequence%20Modeling.pdf)
+- Model-based Reinforcement Learning A Survey — 模型化强化学习综述。/ Survey on MBRL. [查看 View](../_library/Model-based%20Reinforcement%20Learning%20A%20Survey.pdf)
+
+
 ## 相关主题 / Related Topics
 
 - **多智能体学习** / Multi-Agent Learning → [../03_Multi_Agent_Learning/](../03_Multi_Agent_Learning/)

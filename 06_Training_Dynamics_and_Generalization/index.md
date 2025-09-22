@@ -45,6 +45,15 @@ This work experimentally reveals that deep networks can generalize well on test 
 
 ---
 
+### 📄 更多资料 / More Resources
+
+- Scaling Laws for Neural Language Models — 规模定律。/ Scaling laws. [查看 View](../_library/Scaling%20Laws%20for%20Neural%20Language%20Models.pdf)
+- Double Descent 相关：Simple and Effective VAE Training with Calibrated Decoders — 关联训练/泛化现象。/ Training-generalization phenomena. [查看 View](../_library/Simple%20and%20Effective%20VAE%20Training%20with%20Calibrated%20Decoders.pdf)
+- Layer Normalization — 训练稳定与信号尺度。/ Stabilization via normalization. [查看 View](../_library/Layer%20Normalization.pdf)
+- Batch Normalization — 归一化与优化动态。/ Normalization and optimization dynamics. [查看 View](../_library/Batch%20Normalization%20Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift.pdf)
+- SGDR — 学习率调度对训练动态的影响。/ LR scheduling and training dynamics. [查看 View](../_library/SGDR%20Stochastic%20Gradient%20Descent%20with%20Warm%20Restarts.pdf)
+
+
 ## 相关主题 / Related Topics
 
 - **深度学习** / Deep Learning → [../01_Deep_Learning/](../01_Deep_Learning/)

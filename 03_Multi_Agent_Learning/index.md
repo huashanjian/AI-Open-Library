@@ -45,6 +45,16 @@ This book systematically outlines the foundations and algorithms of multi-agent 
 
 ---
 
+### 📄 更多资料 / More Resources
+
+- The StarCraft Multi-Agent Challenge — SC2 多智能体挑战。/ SMAC benchmark. [查看 View](../_library/The%20StarCraft%20Multi-Agent%20Challenge.pdf)
+- The Hanabi Challenge — Hanabi 协作挑战。/ Hanabi benchmark. [查看 View](../_library/The%20Hanabi%20Challenge%20A%20New%20Frontier%20for%20AI%20Research.pdf)
+- The Surprising Effectiveness of PPO in Cooperative, Multi-Agent Games — 多智能体协作中 PPO 的有效性。/ PPO in cooperative MARL. [查看 View](../_library/The%20Surprising%20Effectiveness%20of%20PPO%20in%20Cooperative%2C%20Multi-Agent%20Games.pdf)
+- Counterfactual Multi-Agent Policy Gradients — COMA 算法。/ COMA algorithm. [查看 View](../_library/Counterfactual%20Multi-Agent%20Policy%20Gradients.pdf)
+- Value-Decomposition Networks For Cooperative Multi-Agent Learning — VDN。/ Value decomposition. [查看 View](../_library/Value-Decomposition%20Networks%20For%20Cooperative%20Multi-Agent%20Learning.pdf)
+- QMIX Monotonic Value Function Factorisation — QMIX。/ Monotonic value factorization. [查看 View](../_library/QMIX%20Monotonic%20Value%20Function%20Factorisation%20for%20Deep%20Multi-Agent%20Reinforcement%20Learning.pdf)
+
+
 ## 相关主题 / Related Topics
 
 - **强化学习** / Reinforcement Learning → [../02_Reinforcement_Learning/](../02_Reinforcement_Learning/)
