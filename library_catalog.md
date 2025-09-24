@@ -21,7 +21,7 @@ This is the comprehensive catalog of AI-Open-Library, showcasing all curated lea
 
 ### 🌟 项目维护者 · Project Maintainers
 - **[@huashanjian](https://github.com/huashanjian)** - 项目创建者与主要维护者
-  - 贡献资料：3 份核心学术资源
+  - 贡献资料：147 份学术资源
   - 负责项目架构设计与资料整理
 
 ### 👥 社区贡献者 · Community Contributors
