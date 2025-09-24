@@ -69,9 +69,12 @@ This work experimentally reveals that deep networks can generalize well on test 
 
 ## 相关主题 / Related Topics
 
-- **深度学习** / Deep Learning → [../01_Deep_Learning/](../01_Deep_Learning/)
-- **AI基础理论** / AI Foundations → [../04_AI_Foundations/](../04_AI_Foundations/)
-- **强化学习** / Reinforcement Learning → [../02_Reinforcement_Learning/](../02_Reinforcement_Learning/)
+- **01 深度学习 / Deep Learning** → [../01_Deep_Learning/](../01_Deep_Learning/) — 表达/优化与训练表现 / representation, optimization, training
+- **02 强化学习 / Reinforcement Learning** → [../02_Reinforcement_Learning/](../02_Reinforcement_Learning/) — 序列决策与收敛稳定 / sequential decision and convergence
+- **03 多智能体学习 / Multi-Agent Learning** → [../03_Multi_Agent_Learning/](../03_Multi_Agent_Learning/) — 非平稳性与泛化挑战 / non-stationarity and generalization
+- **04 AI 基础理论 / AI Foundations** → [../04_AI_Foundations/](../04_AI_Foundations/) — 泛化界与复杂度 / bounds and complexity
+- **05 LLMs 与 Transformers / LLMs & Transformers** → [../05_LLMs_and_Transformers/](../05_LLMs_and_Transformers/) — 规模定律与训练技巧 / scaling laws and training
+- **11 计算机视觉 / Computer Vision** → [../11_Computer_Vision/](../11_Computer_Vision/) — 视觉模型训练 / vision model training
 
 ## 学习建议 / Study Recommendations
 

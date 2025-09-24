@@ -26,3 +26,12 @@ Computer vision studies how to acquire, understand, and reconstruct the world fr
 ---
 
 最后更新 / Last Updated: 2025-09-23
+
+## 相关主题 / Related Topics
+
+- **01 深度学习 / Deep Learning** → [../01_Deep_Learning/](../01_Deep_Learning/) — 视觉模型的表达基础 / representation for vision
+- **02 强化学习 / Reinforcement Learning** → [../02_Reinforcement_Learning/](../02_Reinforcement_Learning/) — 视觉决策与控制 / vision-based decision and control
+- **03 多智能体学习 / Multi-Agent Learning** → [../03_Multi_Agent_Learning/](../03_Multi_Agent_Learning/) — 群体视觉与协作 / group vision and coordination
+- **04 AI 基础理论 / AI Foundations** → [../04_AI_Foundations/](../04_AI_Foundations/) — 几何/优化/概率 / geometry, optimization, probability
+- **05 LLMs 与 Transformers / LLMs & Transformers** → [../05_LLMs_and_Transformers/](../05_LLMs_and_Transformers/) — 视觉 Transformer 与多模态 / ViT and multimodality
+- **06 训练动态与泛化 / Training Dynamics and Generalization** → [../06_Training_Dynamics_and_Generalization/](../06_Training_Dynamics_and_Generalization/) — 训练策略与泛化 / training strategies and generalization

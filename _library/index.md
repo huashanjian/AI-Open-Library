@@ -42,7 +42,7 @@
 - Foundations of Machine Learning — Mohri, Rostamizadeh, Talwalkar. 现代机器学习理论教材（Rademacher 等）。 [PDF](./Foundations_of_Machine_Learning.pdf)
 - Probability Theory: The Logic of Science — Jaynes. 概率论作为扩展逻辑的系统论述。 [PDF](./JaynesProbabilityTheory.pdf)
 - All of Statistics — Wasserman. 统计学习与数据科学的速成教材。 [PDF](./All_Of_Statistics_Wasserman_Larry.pdf)
-- Speech and Language Processing (3rd ed. draft) — Jurafsky, Martin. NLP 全景式权威教材（新版草稿）。 [PDF](./Speech_And_Language_Processing.pdf)
+- Speech and Language Processing (3rd ed. draft) — Jurafsky, Martin. NLP 教材草稿（新版草稿）。 [PDF](./Speech_And_Language_Processing.pdf)
 - Foundations of Statistical Natural Language Processing — Manning, Schütze. 统计 NLP 经典教材。 [PDF](./Foundations_Of_Statistical_Natural_Language_Processing_By_Manning_Christopher_And_Schuetze_Hinrich.pdf)
 - High-Dimensional Probability — Vershynin. 高维概率、集中不等式与应用入门。 [PDF](./High_Dimensional_Probability_An_Introduction_With_Applications_In_Data_Science.pdf)
 - Human Compatible — Stuart Russell. 以人为本与可控的 AI 设计原则。 [PDF](./Human_Compatible_Artificial_Intelligence_And_The_Problem_Of_Control_Stuart_Russell.pdf)
@@ -139,3 +139,7 @@ This book systematically outlines the foundations and algorithms of multi-agent 
 - Adam A Method for Stochastic Optimization — [View](./Adam_A_Method_for_Stochastic_Optimization.pdf) — (Kingma & Ba)
 - SGDR Stochastic Gradient Descent with Warm Restarts — [View](./SGDR_Stochastic_Gradient_Descent_with_Warm_Restarts.pdf) — (ICLR 2017)
 - Scaling Laws for Neural Language Models — [View](./Scaling_Laws_for_Neural_Language_Models.pdf)
+
+---
+
+最后更新 / Last Updated: 2025-09-24

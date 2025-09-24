@@ -57,39 +57,48 @@ This is the comprehensive catalog of AI-Open-Library, showcasing all curated lea
   - 标签: multi-agent systems, coordination algorithms
 
 ### 📐 [04_AI基础理论](./04_AI_Foundations/) · AI Foundations
-*期待更多理论基础资料的加入*
-
-*Looking forward to more foundational theory resources*
+- 📄 Information Theory, Inference, and Learning Algorithms — MacKay. [PDF](./_library/Information_Theory_Inference_And_Learning_Algorithms.pdf)
+- 📄 Convex Optimization — Boyd & Vandenberghe. [PDF](./_library/Convex_Optimization_Boyd_Vandenberghe.pdf)
+- 📄 Numerical Optimization — Nocedal & Wright. [PDF](./_library/Numerical_Optimization_Nocedal_Wright.pdf)
+- 📄 Foundations of Machine Learning — Mohri, Rostamizadeh, Talwalkar. [PDF](./_library/Foundations_of_Machine_Learning.pdf)
+- 📄 Probability Theory: The Logic of Science — Jaynes. [PDF](./_library/JaynesProbabilityTheory.pdf)
+- 📄 All of Statistics — Wasserman. [PDF](./_library/All_Of_Statistics_Wasserman_Larry.pdf)
+- 📄 Vectors, Matrices, and Least Squares (VMLS) — Boyd. [PDF](./_library/Vectors_Matrices_and_Least_Squares_Boyd.pdf)
 
 ### 🧠 [05_LLMs_and_Transformers](./05_LLMs_and_Transformers/) · LLMs & Transformers
 
-欢迎补充与大语言模型（LLM）、指令对齐（Instruction Tuning）、RLHF、Agent、系统提示工程、评测与安全相关的高质量资料
-
-We welcome high-quality resources on LLMs, instruction tuning, RLHF, agent systems, prompt engineering, evaluation, and safety
+- 📄 Attention Is All You Need — Vaswani et al. [PDF](./_library/Attention_Is_All_You_Need.pdf)
+- 📄 Language Models are Few‑Shot Learners — Brown et al. [PDF](./_library/Language_Models_are_Few-Shot_Learners.pdf)
+- 📄 Training LMs to follow instructions with human feedback — Ouyang et al. [PDF](./_library/Training_language_models_to_follow_instructions_with_human_feedback.pdf)
+- 📄 Large Language Models: A Survey — Comprehensive survey. [PDF](./_library/Large_Language_Models_A_Survey.pdf)
+- 📄 LoRA: Low‑Rank Adaptation of LLMs — Hu et al. [PDF](./_library/LoRA_Low-Rank_Adaptation_of_Large_Language_Models.pdf)
+- 📄 Retrieval‑Augmented Generation for Knowledge‑Intensive NLP — Lewis et al. [PDF](./_library/Retrieval-Augmented_Generation_for_Knowledge-Intensive_NLP_Tasks.pdf)
 
 ### 📈 [06_训练动态与泛化机制](./06_Training_Dynamics_and_Generalization/) · Training Dynamics
 
 - 📄 **Understanding Deep Learning Requires Rethinking Generalization**
-  - 类型: 开创性论文 Seminal Paper
-  - 影响: 重新定义了深度学习泛化理论的讨论
+  - 类型: 具有影响力的论文 Influential Paper
+  - 影响: 推动了深度学习泛化理论的讨论
 
 ### 🤔 [07_AI伦理与社会](./07_AI_Ethics_and_Society/) · AI Ethics & Society
 
-欢迎 AI 伦理与社会影响相关的资料贡献
-
-We welcome contributions on AI ethics and societal impact
+- 📄 The Ethical Algorithm — Kearns & Roth. [PDF](./_library/The_Ethical_Algorithm_The_Science_Of_Socially_Aware_Algorithm_Design_Michael_Kearns_Aaron_Roth_Z_Library.pdf)
+- 📄 Fairness and Machine Learning — Barocas, Hardt, Narayanan. [PDF](./_library/fairmlbook.pdf)
+- 📄 Human Compatible — Stuart Russell. [PDF](./_library/Human_Compatible_Artificial_Intelligence_And_The_Problem_Of_Control_Stuart_Russell.pdf)
+- 📄 Superintelligence — Nick Bostrom. [PDF](./_library/Superintelligence_Paths_Dangers_Strategies_By_Nick_Bostrom.pdf)
+- 📄 Red Teaming Language Models to Reduce Harms — Anthropic. [PDF](./_library/Red_Teaming_Language_Models_to_Reduce_Harms_Methods,_Scaling_Behaviors,_and_Lessons_Learned.pdf)
 
 ### ✍️ [08_科研写作与投稿](./08_Research_Writing_and_Publishing/) · Research Writing
 
-期待学术写作资源的推荐
-
-We welcome academic writing resource recommendations
+- 📄 How to Write a Great Research Paper — Lipton. [PDF](./_library/How_to_Write_a_Great_Research_Paper.pdf)
+- 📄 Software Engineering for Machine Learning — Best practices. [PDF](./_library/Software_Engineering_for_Machine_Learning.pdf)
 
 ### 🖼️ [11_计算机视觉](./11_Computer_Vision/) · Computer Vision
 
-期待计算机视觉相关高质量资料
-
-We welcome high-quality resources on computer vision
+- 📄 Computer Vision: Algorithms and Applications — Szeliski. [PDF](./_library/Szeliski_CVAABook_2ndEd.pdf)
+- 📄 Digital Image Processing — Gonzalez & Woods. [PDF](./_library/Digital_Image_Processing_Compress.pdf)
+- 📄 Multiple View Geometry in Computer Vision — Hartley & Zisserman. [PDF](./_library/Multiple_View_Geometry_In_Computer_Vision_Second_Edition.pdf)
+- 📄 An Invitation to 3D Vision — Ma, Soatto, Kosecka, Sastry. [PDF](./_library/An_Invitation_To_3_D_Vision.pdf)
 
 ### 🔍 [98_交互式工具与可视化](./98_Tools_and_Interactive_Demos/) · Tools & Visualization
 

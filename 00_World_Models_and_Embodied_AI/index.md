@@ -73,9 +73,14 @@ This textbook introduces modeling and control strategies for underactuated robot
 
 ## 相关主题 / Related Topics
 
-- **强化学习** / Reinforcement Learning → [../02_Reinforcement_Learning/](../02_Reinforcement_Learning/)
-- **多智能体学习** / Multi-Agent Learning → [../03_Multi_Agent_Learning/](../03_Multi_Agent_Learning/)
-- **深度学习** / Deep Learning → [../01_Deep_Learning/](../01_Deep_Learning/)
+- **01 深度学习 / Deep Learning** → [../01_Deep_Learning/](../01_Deep_Learning/) — 表达学习与生成建模基础 / representation and generative modeling
+- **02 强化学习 / Reinforcement Learning** → [../02_Reinforcement_Learning/](../02_Reinforcement_Learning/) — 规划与控制的学习范式 / learning for planning and control
+- **03 多智能体学习 / Multi-Agent Learning** → [../03_Multi_Agent_Learning/](../03_Multi_Agent_Learning/) — 具身协作与博弈环境 / embodied coordination and games
+- **04 AI 基础理论 / AI Foundations** → [../04_AI_Foundations/](../04_AI_Foundations/) — 概率/优化/控制理论支撑 / probability, optimization, control
+- **05 LLMs 与 Transformers / LLMs & Transformers** → [../05_LLMs_and_Transformers/](../05_LLMs_and_Transformers/) — 序列建模与对齐方法 / sequence modeling and alignment
+- **06 训练动态与泛化 / Training Dynamics and Generalization** → [../06_Training_Dynamics_and_Generalization/](../06_Training_Dynamics_and_Generalization/) — 训练行为与泛化 / training behavior and generalization
+- **11 计算机视觉 / Computer Vision** → [../11_Computer_Vision/](../11_Computer_Vision/) — 感知与几何重建 / perception and geometry
+- **08 科研写作与投稿 / Research Writing and Publishing** → [../08_Research_Writing_and_Publishing/](../08_Research_Writing_and_Publishing/) — 实验报告与论文撰写 / reporting and writing
 
 ## 学习建议 / Study Recommendations
 

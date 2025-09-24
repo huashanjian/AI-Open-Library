@@ -67,9 +67,15 @@ This work experimentally reveals that deep networks can generalize well on test 
 
 ## 相关主题 / Related Topics
 
-- **训练动态与泛化机制** / Training Dynamics and Generalization → [../06_Training_Dynamics_and_Generalization/](../06_Training_Dynamics_and_Generalization/)
-- **AI基础理论** / AI Foundations → [../04_AI_Foundations/](../04_AI_Foundations/)
-- **LLMs 与 Transformers** / LLMs & Transformers → [../05_LLMs_and_Transformers/](../05_LLMs_and_Transformers/)
+- **00 世界模型与具身智能 / World Models & Embodied AI** → [../00_World_Models_and_Embodied_AI/](../00_World_Models_and_Embodied_AI/) — 具身智能与生成世界模型 / embodied intelligence and world models
+- **02 强化学习 / Reinforcement Learning** → [../02_Reinforcement_Learning/](../02_Reinforcement_Learning/) — 策略/值函数与决策 / policy, value, decision-making
+- **03 多智能体学习 / Multi-Agent Learning** → [../03_Multi_Agent_Learning/](../03_Multi_Agent_Learning/) — 协作/博弈与通信 / cooperation, games, communication
+- **04 AI 基础理论 / AI Foundations** → [../04_AI_Foundations/](../04_AI_Foundations/) — 概率/优化/信息论 / probability, optimization, information theory
+- **05 LLMs 与 Transformers / LLMs & Transformers** → [../05_LLMs_and_Transformers/](../05_LLMs_and_Transformers/) — 架构与方法 / architectures and methods
+- **06 训练动态与泛化 / Training Dynamics and Generalization** → [../06_Training_Dynamics_and_Generalization/](../06_Training_Dynamics_and_Generalization/) — 训练行为与泛化 / training behavior and generalization
+- **07 AI 伦理与社会 / AI Ethics & Society** → [../07_AI_Ethics_and_Society/](../07_AI_Ethics_and_Society/) — 公平/安全/治理 / fairness, safety, governance
+- **08 科研写作与投稿 / Research Writing and Publishing** → [../08_Research_Writing_and_Publishing/](../08_Research_Writing_and_Publishing/) — 写作与发表 / writing and publishing
+- **11 计算机视觉 / Computer Vision** → [../11_Computer_Vision/](../11_Computer_Vision/) — 视觉应用 / vision applications
 
 ## 学习建议 / Study Recommendations
 

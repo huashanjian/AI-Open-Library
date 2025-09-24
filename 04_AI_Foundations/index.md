@@ -29,4 +29,12 @@
 
 ---
 
+## 相关主题 / Related Topics
+
+- **01 深度学习 / Deep Learning** → [../01_Deep_Learning/](../01_Deep_Learning/) — 理论支撑模型实践 / theory supporting practice
+- **02 强化学习 / Reinforcement Learning** → [../02_Reinforcement_Learning/](../02_Reinforcement_Learning/) — 决策理论与优化 / decision theory and optimization
+- **03 多智能体学习 / Multi-Agent Learning** → [../03_Multi_Agent_Learning/](../03_Multi_Agent_Learning/) — 博弈论与分布式系统 / game theory and distributed systems
+- **05 LLMs 与 Transformers / LLMs & Transformers** → [../05_LLMs_and_Transformers/](../05_LLMs_and_Transformers/) — 序列建模与近似推断 / sequence modeling and approximate inference
+- **06 训练动态与泛化 / Training Dynamics and Generalization** → [../06_Training_Dynamics_and_Generalization/](../06_Training_Dynamics_and_Generalization/) — 泛化理论与优化景观 / generalization and optimization landscapes
+
 最后更新 / Last Updated: 2025-09-22

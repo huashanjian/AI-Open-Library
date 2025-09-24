@@ -79,10 +79,13 @@ Learning and collaboration of multiple agents in shared environments, including 
 
 ## 相关主题 / Related Topics
 
-- **多智能体学习** / Multi-Agent Learning → [../03_Multi_Agent_Learning/](../03_Multi_Agent_Learning/)
-- **世界模型与具身智能** / World Models and Embodied AI → [../00_World_Models_and_Embodied_AI/](../00_World_Models_and_Embodied_AI/)
-- **深度学习** / Deep Learning → [../01_Deep_Learning/](../01_Deep_Learning/)
-- **AI基础理论** / AI Foundations → [../04_AI_Foundations/](../04_AI_Foundations/)
+- **00 世界模型与具身智能 / World Models & Embodied AI** → [../00_World_Models_and_Embodied_AI/](../00_World_Models_and_Embodied_AI/) — 物理/控制与策略学习 / control and policy learning
+- **01 深度学习 / Deep Learning** → [../01_Deep_Learning/](../01_Deep_Learning/) — 表达能力与函数逼近 / representation and approximation
+- **03 多智能体学习 / Multi-Agent Learning** → [../03_Multi_Agent_Learning/](../03_Multi_Agent_Learning/) — 协作/博弈/部分可观测 / cooperation, games, partial observability
+- **04 AI 基础理论 / AI Foundations** → [../04_AI_Foundations/](../04_AI_Foundations/) — 概率/优化/决策理论 / probability, optimization, decision theory
+- **05 LLMs 与 Transformers / LLMs & Transformers** → [../05_LLMs_and_Transformers/](../05_LLMs_and_Transformers/) — 序列决策与建模借鉴 / inspirations for sequential modeling
+- **06 训练动态与泛化 / Training Dynamics and Generalization** → [../06_Training_Dynamics_and_Generalization/](../06_Training_Dynamics_and_Generalization/) — 训练行为与稳定性 / training behavior and stability
+- **11 计算机视觉 / Computer Vision** → [../11_Computer_Vision/](../11_Computer_Vision/) — 视觉强化学习与感知耦合 / vision-RL coupling
 
 ## 学习建议 / Study Recommendations
 

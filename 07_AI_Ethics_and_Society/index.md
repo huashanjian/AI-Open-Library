@@ -22,3 +22,12 @@
 - Superintelligence — 超人工智能的路径与风险。/ Superintelligence. [PDF](../_library/Superintelligence_Paths_Dangers_Strategies_By_Nick_Bostrom.pdf)
 - The Ethical Algorithm — 社会友好算法设计。/ Socially aware algorithm design. [PDF](../_library/The_Ethical_Algorithm_The_Science_Of_Socially_Aware_Algorithm_Design_Michael_Kearns_Aaron_Roth_Z_Library.pdf)
 - Fairness and Machine Learning — 公平性与机器学习。/ Fair ML textbook. [PDF](../_library/fairmlbook.pdf)
+
+## 相关主题 / Related Topics
+
+- **01 深度学习 / Deep Learning** → [../01_Deep_Learning/](../01_Deep_Learning/) — 模型与数据治理 / model and data governance
+- **02 强化学习 / Reinforcement Learning** → [../02_Reinforcement_Learning/](../02_Reinforcement_Learning/) — 决策中的安全约束 / safety constraints in decision-making
+- **03 多智能体学习 / Multi-Agent Learning** → [../03_Multi_Agent_Learning/](../03_Multi_Agent_Learning/) — 互动风险与治理 / interaction risks and governance
+- **04 AI 基础理论 / AI Foundations** → [../04_AI_Foundations/](../04_AI_Foundations/) — 公平性与信息论工具 / fairness and information-theoretic tools
+- **05 LLMs 与 Transformers / LLMs & Transformers** → [../05_LLMs_and_Transformers/](../05_LLMs_and_Transformers/) — 对齐/评测/安全 / alignment, evaluation, safety
+- **08 科研写作与投稿 / Research Writing and Publishing** → [../08_Research_Writing_and_Publishing/](../08_Research_Writing_and_Publishing/) — 伦理声明与复现 / ethics statements and reproducibility

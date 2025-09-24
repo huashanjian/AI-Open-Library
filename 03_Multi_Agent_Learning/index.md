@@ -71,9 +71,13 @@ This book systematically outlines the foundations and algorithms of multi-agent 
 
 ## 相关主题 / Related Topics
 
-- **强化学习** / Reinforcement Learning → [../02_Reinforcement_Learning/](../02_Reinforcement_Learning/)
-- **AI基础理论** / AI Foundations → [../04_AI_Foundations/](../04_AI_Foundations/)
-- **世界模型与具身智能** / World Models and Embodied AI → [../00_World_Models_and_Embodied_AI/](../00_World_Models_and_Embodied_AI/)
+- **00 世界模型与具身智能 / World Models & Embodied AI** → [../00_World_Models_and_Embodied_AI/](../00_World_Models_and_Embodied_AI/) — 具身协作与控制 / embodied coordination and control
+- **01 深度学习 / Deep Learning** → [../01_Deep_Learning/](../01_Deep_Learning/) — 表达与通信建模 / representation and communication modeling
+- **02 强化学习 / Reinforcement Learning** → [../02_Reinforcement_Learning/](../02_Reinforcement_Learning/) — 策略优化与博弈框架 / policy optimization and game-theoretic frameworks
+- **04 AI 基础理论 / AI Foundations** → [../04_AI_Foundations/](../04_AI_Foundations/) — 博弈/优化/概率工具 / game theory, optimization, probability
+- **05 LLMs 与 Transformers / LLMs & Transformers** → [../05_LLMs_and_Transformers/](../05_LLMs_and_Transformers/) — 多智能体通信与语言建模 / communication and language modeling
+- **06 训练动态与泛化 / Training Dynamics and Generalization** → [../06_Training_Dynamics_and_Generalization/](../06_Training_Dynamics_and_Generalization/) — 非平稳性与泛化 / non-stationarity and generalization
+- **LLMs 与 Transformers** / LLMs & Transformers → [../05_LLMs_and_Transformers/](../05_LLMs_and_Transformers/)
 
 ## 学习建议 / Study Recommendations
 
