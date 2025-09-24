@@ -28,12 +28,12 @@ World models and embodied AI represent cutting-edge directions in artificial int
 
 ## 精选资料 / Curated Resources
 
-### � 经典精选 / Canonical Picks
+### ⭐ 经典精选 / Canonical Picks
 
 - Underactuated Robotics — 欠驱动机器人学经典教材，具身智能与控制的基础。/ Classic textbook on underactuated robotics and control foundations. [查看 View](../_library/Underactuated_Robotics_Russ_Tedrake.pdf)
 - World Models — 世界模型里程碑论文，提出“想象-计划-控制”范式。/ Landmark paper introducing generative world models for control. [查看 View](../_library/World_Models.pdf)
 
-### �📚 经典教材 / Classic Textbooks
+### 📚 经典教材 / Classic Textbooks
 
 #### Underactuated Robotics
 
@@ -59,6 +59,16 @@ This textbook introduces modeling and control strategies for underactuated robot
 - What Does it Mean for a Neural Network to Learn a World Model — 讨论“何为世界模型”。/ On what it means to learn a world model. [查看 View](../_library/What_Does_it_Mean_for_a_Neural_Network_to_Learn_a_World_Model.pdf)
 - World Knowledge from AI Image Generation for Robot Control — 通过图像生成获得可用于控制的世界知识。/ Extract world knowledge for robot control from AI image generation. [查看 View](../_library/World_Knowledge_from_AI_Image_Generation_for_Robot_Control.pdf)
 
+#### 📚 经典教材（交叉）/ Classic Textbooks (Cross-Topic)
+
+- Probabilistic Robotics — 机器人概率方法与 SLAM。/ Probabilistic methods and SLAM. [PDF](../_library/Thrun_Et_Al_2005_Probabilistic_Robotics.pdf)
+- Planning Algorithms — 运动规划/最优/采样等综述式教材。/ Comprehensive text on planning. [PDF](../_library/Planning_Algorithms.pdf)
+- Modern Robotics: Mechanics, Planning, and Control — 机器人学力学、规划与控制。/ Mechanics, planning, control. [PDF](../_library/Modern_Robotics.pdf)
+- Robot Modeling and Control — 机器人建模与控制经典。/ Classic text on robot modeling/control. [PDF](../_library/Robot_Modeling_And_Control_Compress.pdf)
+- State Estimation for Robotics — 状态估计与图优化。/ State estimation and graph optimization. [PDF](../_library/State_Estimation_FOR_Robotics.pdf)
+- Feedback Systems — 控制与反馈系统基础。/ Control and feedback foundations. [PDF](../_library/Astrom_Feedback_2006.pdf)
+ 
+
 ---
 
 ## 相关主题 / Related Topics
@@ -83,4 +93,4 @@ Study specific control algorithm implementations in depth, practice with simulat
 
 ---
 
-最后更新 / Last Updated: 2025年9月22日 / September 22, 2025
+最后更新 / Last Updated: 2025年9月23日 / September 23, 2025

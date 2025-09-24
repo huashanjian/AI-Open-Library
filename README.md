@@ -23,9 +23,10 @@ Thanks to everyone who starred this project - your support drives our continuous
 | 链接 Links | 链接 Links | 链接 Links |
 | --- | --- | --- |
 | [00 世界模型与具身智能 / 00 World Models & Embodied AI](./00_World_Models_and_Embodied_AI/) | [01 深度学习 / 01 Deep Learning](./01_Deep_Learning/) | [02 强化学习 / 02 Reinforcement Learning](./02_Reinforcement_Learning/) |
-| [03 多智能体学习 / 03 Multi-Agent Learning](./03_Multi_Agent_Learning/) | [04 AI 基础理论 / 04 AI Foundations](./04_AI_Foundations/) | [05 LLM 与 Transformer / 05 LLMs & Transformers](./05_LLMs_and_Transformers/) |
+| [03 多智能体学习 / 03 Multi-Agent Learning](./03_Multi_Agent_Learning/) | [04 AI 基础理论 / 04 AI Foundations](./04_AI_Foundations/) | [05 自然语言处理与 Transformers / 05 NLP & Transformers](./05_Natural_Language_Processing_and_Transformers/) |
 | [06 训练动态与泛化机制 / 06 Training Dynamics & Generalization](./06_Training_Dynamics_and_Generalization/) | [07 AI 伦理与社会 / 07 AI Ethics & Society](./07_AI_Ethics_and_Society/) | [08 科研写作与投稿 / 08 Research Writing & Publishing](./08_Research_Writing_and_Publishing/) |
-| [09 交互式工具与可视化 / 09 Tools & Interactive Demos](./09_Tools_and_Interactive_Demos/) | [10 论文整理与精读笔记 / 10 Paper Collections & Summaries](./10_Paper_Collections_and_Summaries/) | [📚 全部资料目录 / All Resources](./_library/index.md) |
+| [11 计算机视觉 / 11 Computer Vision](./11_Computer_Vision/) | [05 自然语言处理与 Transformers / 05 NLP & Transformers](./05_Natural_Language_Processing_and_Transformers/) | [98 交互式工具与可视化 / 98 Tools & Interactive Demos](./98_Tools_and_Interactive_Demos/) |
+| [99 论文整理与精读笔记 / 99 Paper Collections & Summaries](./99_Paper_Collections_and_Summaries/) | [📚 全部资料目录 / All Resources](./_library/index.md) |  |
 
 ---
 
@@ -56,17 +57,19 @@ Thanks to everyone who starred this project - your support drives our continuous
     研究多智能体环境下的博弈、协作与通信问题。
 * **`04_AI基础理论`**
     提供构建 AI 所需的数学工具：概率论、优化理论、信息论等，是理解上层模型的认知“钙质”。
-* **`05_LLM与Transformer`**
-    梳理大语言模型与 Transformer 架构的演进，理解其核心设计与规模化思想。
+* **`05_Natural_Language_Processing_and_Transformers`**
+    研究语言的理解、生成与交互，以及 Transformer 与大语言模型的核心原理与方法，涵盖统计与神经方法、信息抽取、机器翻译、对话系统与指令微调等。
 * **`06_训练动态与泛化机制`**
     深入模型训练过程，探究损失函数、收敛行为与泛化能力之间的内在联系。
 * **`07_AI伦理与社会`**
     关注 AI 技术的社会影响，探讨偏见、治理、对齐 (Alignment) 等关键议题。
 * **`08_科研写作与投稿`**
     一份关于学术研究与沟通的实用指南，覆盖从问题定义到论文发表的全流程。
-* **`09_交互式工具与可视化`**
+* **`11_计算机视觉`**
+    研究图像/视频的理解与重建，涵盖几何视觉、识别检测、三维感知与生成等方向。
+* **`98_交互式工具与可视化`**
     精选各类可视化工具与交互式 Demo，为理解抽象模型和算法提供直观的辅助。
-* **`10_论文整理与精读笔记`**
+* **`99_论文整理与精读笔记`**
     结构化的论文笔记与主题合集，侧重于记录、对比与批判性思考。
 
 ---
@@ -76,6 +79,17 @@ Thanks to everyone who starred this project - your support drives our continuous
 我们相信，学习不是信息的消费，而是思维的重建。
 
 希望这个知识库，能在纷繁的信息中，为你提供一个清晰的结构和可靠的参考点，帮助你厘清脉络，看清方向。
+
+---
+
+#### **⚖️ 版权与使用声明 / Disclaimer**
+
+* 本项目仅用于学术交流与非商业用途；资源收录旨在学习、研究与教学。请勿用于任何商业传播或盈利活动。
+* 所有资料的版权均归原作者/出版方所有；如涉及第三方商标、封面、元数据等，均仅用于学术引用与信息识别之目的。
+* 本项目不提供付费传播服务，不鼓励二次上传、镜像或再分发；如需引用或分发，请遵循原始许可与版权要求。
+* 如您为相关作品的权利人，且认为本项目中某文件或片段不宜公开传播，请发送邮件至 [junhuayao41@gmail.com](mailto:junhuayao41@gmail.com)；我们将在核实后尽快处理（包括下线/移除）。
+* 使用者应自行确保其下载与使用行为符合所在司法辖区的法律法规与出版方授权；由此产生的风险由使用者自行承担。
+* 本页内容不构成法律意见（This is not legal advice）。
 
 ---
 
@@ -127,17 +141,19 @@ The purpose of this project is to build a knowledge base centered on "structured
     Studies the problems of game theory, cooperation, and communication in multi-agent environments.
 * **`04_AI_Foundations`**
     Provides the mathematical tools required for AI: probability theory, optimization, information theory, etc. This is the cognitive "calcium" for understanding higher-level models.
-* **`05_LLMs_and_Transformers`**
-    Outlines the evolution of Large Language Models and the Transformer architecture, focusing on their core design and scaling principles.
+* **`05_Natural_Language_Processing_and_Transformers`**
+    Studies language understanding, generation, and interaction, along with the core principles of Transformers and LLMs, spanning statistical and neural methods, IE, MT, dialogue, and instruction tuning.
 * **`06_Training_Dynamics_and_Generalization`**
     A deeper look into the model training process, exploring the intrinsic connections between loss functions, convergence behavior, and generalization.
 * **`07_AI_Ethics_and_Society`**
     Addresses the societal impact of AI technology, discussing key issues such as bias, governance, and alignment.
 * **`08_Research_Writing_and_Publishing`**
     A practical guide to academic research and communication, covering the entire process from problem definition to publication.
-* **`09_Tools_and_Interactive_Demos`**
+* **`11_Computer_Vision`**
+    Studies understanding and reconstruction from images/videos, including geometric vision, recognition/detection, 3D perception, and generative methods.
+* **`98_Tools_and_Interactive_Demos`**
     A curated collection of visualization tools and interactive demos to provide an intuitive aid for understanding abstract models and algorithms.
-* **`10_Paper_Collections_and_Summaries`**
+* **`99_Paper_Collections_and_Summaries`**
     Structured reading notes and thematic paper collections, with an emphasis on recording, comparing, and critical thinking.
 
 ---
@@ -147,6 +163,17 @@ The purpose of this project is to build a knowledge base centered on "structured
 We believe that learning is not the consumption of information, but the reconstruction of thought.
 
 We hope AI-Open-Library can serve as a stable and reliable point of reference, helping you to orient yourself and see the path forward amidst the vast sea of information.
+
+---
+
+#### **⚖️ Disclaimer (Copyright & Use)**
+
+* This project is for educational, research, and non‑commercial purposes only. Please do not use any materials herein for commercial distribution or profit.
+* All copyrights belong to the original authors and publishers. Any third‑party trademarks, covers, or metadata are included solely for scholarly citation and identification.
+* We do not provide paid distribution services, nor encourage mirroring or re‑distribution. If you need to cite or share, please follow the original license and copyright terms.
+* If you are a rights holder and believe that any file or excerpt should not be publicly available here, please contact [junhuayao41@gmail.com](mailto:junhuayao41@gmail.com). We will verify and remove it promptly.
+* Users are responsible for ensuring their download and usage comply with applicable laws and the rights holders’ terms in their jurisdiction; you assume all associated risks.
+* Nothing in this document constitutes legal advice.
 
 ---
 

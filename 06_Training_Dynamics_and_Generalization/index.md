@@ -28,13 +28,13 @@ Training dynamics and generalization mechanisms are core areas of deep learning 
 
 ## 精选资料 / Curated Resources
 
-### � 经典精选 / Canonical Picks
+### ⭐ 经典精选 / Canonical Picks
 
 - Understanding Deep Learning Requires Rethinking Generalization — 训练拟合与泛化悖论的经典实验研究。/ Classic experimental study on generalization. [查看 View](../_library/Understanding_Deep_Learning_Requires_Rethinking_Generalization.pdf)
 - Batch Normalization — 训练动态与优化稳定性的关键方法。/ Key method impacting training dynamics. [查看 View](../_library/Batch_Normalization_Accelerating_Deep_Network_Training_by_Reducing_Internal_Covariate_Shift.pdf)
 - Scaling Laws for Neural Language Models — 规模定律的重要发现。/ Important discovery on scaling laws. [查看 View](../_library/Scaling_Laws_for_Neural_Language_Models.pdf)
 
-### �📄 重要论文 / Key Papers
+### 📄 重要论文 / Key Papers
 
  
 #### Understanding Deep Learning Requires Rethinking Generalization
@@ -60,6 +60,11 @@ This work experimentally reveals that deep networks can generalize well on test 
 - Layer Normalization — 训练稳定与信号尺度。/ Stabilization via normalization. [查看 View](../_library/Layer_Normalization.pdf)
 - Batch Normalization — 归一化与优化动态。/ Normalization and optimization dynamics. [查看 View](../_library/Batch_Normalization_Accelerating_Deep_Network_Training_by_Reducing_Internal_Covariate_Shift.pdf)
 - SGDR — 学习率调度对训练动态的影响。/ LR scheduling and training dynamics. [查看 View](../_library/SGDR_Stochastic_Gradient_Descent_with_Warm_Restarts.pdf)
+
+#### 📚 经典教材 / Classic Textbooks
+
+- The Nature of Statistical Learning Theory — 泛化理论与 VC 维。/ Statistical learning theory. [PDF](../_library/Vladimir_Vapnik_The_Nature_Of_Statistical_Learning_Springer_2010.pdf)
+- High-Dimensional Probability — 高维概率与集中不等式。/ High-dimensional probability. [PDF](../_library/High_Dimensional_Probability_An_Introduction_With_Applications_In_Data_Science.pdf)
 
 
 ## 相关主题 / Related Topics

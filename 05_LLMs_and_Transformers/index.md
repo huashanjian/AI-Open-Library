@@ -2,13 +2,13 @@
 
 ## 精选资料 / Curated Resources
 
-### � 经典精选 / Canonical Picks
+### ⭐ 经典精选 / Canonical Picks
 
 - Attention Is All You Need — Transformer 开山之作。/ Foundational Transformer paper. [查看 View](../_library/Attention_Is_All_You_Need.pdf)
 - Language Models are Few-Shot Learners — GPT‑3 里程碑论文。/ GPT‑3 milestone. [查看 View](../_library/Language_Models_are_Few-Shot_Learners.pdf)
 - Training language models to follow instructions with human feedback — 指令微调与 RLHF 里程碑。/ Landmark instruction-following with human feedback. [查看 View](../_library/Training_language_models_to_follow_instructions_with_human_feedback.pdf)
 
-### �📄 更多资料 / More Resources
+### 📄 更多资料 / More Resources
 
 - Attention Is All You Need — Transformer 开山之作。/ Foundational Transformer paper. [查看 View](../_library/Attention_Is_All_You_Need.pdf)
 - FlashAttention — 高效精确注意力实现。/ Fast exact attention. [查看 View](../_library/FlashAttention_Fast_and_Memory-Efficient_Exact_Attention_with_IO-Awareness.pdf)

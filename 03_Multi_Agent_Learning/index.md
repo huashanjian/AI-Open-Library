@@ -28,13 +28,13 @@ Multi-agent learning is an important branch of artificial intelligence that stud
 
 ## 精选资料 / Curated Resources
 
-### � 经典精选 / Canonical Picks
+### ⭐ 经典精选 / Canonical Picks
 
 - Multiagent Systems (Shoham & Leyton-Brown) — 多智能体系统经典教材。/ Classic textbook. [查看 View](../_library/Multiagent_Systems_Shoham_Leyton_Brown.pdf)
 - QMIX Monotonic Value Function Factorisation — MARL 代表性算法。/ Representative MARL algorithm. [查看 View](../_library/QMIX_Monotonic_Value_Function_Factorisation_for_Deep_Multi-Agent_Reinforcement_Learning.pdf)
 - Counterfactual Multi-Agent Policy Gradients — COMA 算法。/ COMA algorithm. [查看 View](../_library/Counterfactual_Multi-Agent_Policy_Gradients.pdf)
 
-### �📚 经典教材 / Classic Textbooks
+### 📚 经典教材 / Classic Textbooks
 
  
 #### Multi-Agent Reinforcement Learning Foundations
@@ -61,6 +61,12 @@ This book systematically outlines the foundations and algorithms of multi-agent 
 - Counterfactual Multi-Agent Policy Gradients — COMA 算法。/ COMA algorithm. [查看 View](../_library/Counterfactual_Multi-Agent_Policy_Gradients.pdf)
 - Value-Decomposition Networks For Cooperative Multi-Agent Learning — VDN。/ Value decomposition. [查看 View](../_library/Value-Decomposition_Networks_For_Cooperative_Multi-Agent_Learning.pdf)
 - QMIX Monotonic Value Function Factorisation — QMIX。/ Monotonic value factorization. [查看 View](../_library/QMIX_Monotonic_Value_Function_Factorisation_for_Deep_Multi-Agent_Reinforcement_Learning.pdf)
+
+#### 📚 经典教材（已收录） / Classic Textbooks (Collected)
+
+- Algorithmic Game Theory — 算法博弈论权威文集。/ Authoritative compendium. [PDF](../_library/Algorithmic_Game_Theory.pdf)
+- Multiagent Systems: A Modern Approach to Distributed AI — 多智能体系统经典教材（文集）。/ Classic textbook. [PDF](../_library/Multiagent_Systems_A_Modern_Approach_To_Distributed_Artificial_Intelligence_Gerhard_Weiss.pdf)
+- Distributed Control of Robotic Networks — 图论/一致性/分布式控制基础。/ Foundations in distributed control. [PDF](../_library/DCRN_Bullocortesmartinez_10mar09.pdf)
 
 
 ## 相关主题 / Related Topics

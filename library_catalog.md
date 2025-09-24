@@ -61,35 +61,53 @@ This is the comprehensive catalog of AI-Open-Library, showcasing all curated lea
 
 *Looking forward to more foundational theory resources*
 
-### 🗣️ [05_LLM与Transformer](./05_LLMs_and_Transformers/) · LLMs & Transformers
-*期待大语言模型相关资料的推荐*
+### 🗣️ [05_自然语言处理与Transformers](./05_Natural_Language_Processing_and_Transformers/) · NLP & Transformers
 
-*We welcome recommendations for LLM-related resources*
+欢迎补充与 NLP/LLM/Transformer 相关的高质量资料
+
+We welcome recommendations for high-quality resources on NLP/LLMs/Transformers
 
 ### 📈 [06_训练动态与泛化机制](./06_Training_Dynamics_and_Generalization/) · Training Dynamics
+
 - 📄 **Understanding Deep Learning Requires Rethinking Generalization**
   - 类型: 开创性论文 Seminal Paper
   - 影响: 重新定义了深度学习泛化理论的讨论
 
 ### 🤔 [07_AI伦理与社会](./07_AI_Ethics_and_Society/) · AI Ethics & Society
-*期待AI伦理相关资料的贡献*
 
-*We welcome contributions on AI ethics and societal impact*
+欢迎 AI 伦理与社会影响相关的资料贡献
+
+We welcome contributions on AI ethics and societal impact
 
 ### ✍️ [08_科研写作与投稿](./08_Research_Writing_and_Publishing/) · Research Writing
-*期待学术写作资源的推荐*
 
-*Looking forward to academic writing resource recommendations*
+期待学术写作资源的推荐
 
-### 🔍 [09_交互式工具与可视化](./09_Tools_and_Interactive_Demos/) · Tools & Visualization
-*期待实用工具和可视化资源*
+We welcome academic writing resource recommendations
 
-*We welcome practical tools and visualization resources*
+### 🖼️ [11_计算机视觉](./11_Computer_Vision/) · Computer Vision
 
-### 📄 [10_论文整理与精读笔记](./10_Paper_Collections_and_Summaries/) · Paper Collections
-*期待高质量论文合集和精读笔记*
+期待计算机视觉相关高质量资料
 
-*Looking forward to high-quality paper collections and detailed reading notes*
+We welcome high-quality resources on computer vision
+
+### 🗣️ [05_Natural_Language_Processing_and_Transformers](./05_Natural_Language_Processing_and_Transformers/) · NLP & Transformers
+
+NLP 与 Transformer/LLM 的核心资料入口（统计与神经方法、IE、MT、对话、指令微调等）
+
+Central entry for NLP and Transformers/LLMs (statistical and neural methods, IE, MT, dialogue, instruction tuning)
+
+### �🔍 [98_交互式工具与可视化](./98_Tools_and_Interactive_Demos/) · Tools & Visualization
+
+期待实用工具和可视化资源
+
+We welcome practical tools and visualization resources
+
+### 📄 [99_论文整理与精读笔记](./99_Paper_Collections_and_Summaries/) · Paper Collections
+
+期待高质量论文合集和精读笔记
+
+Looking forward to high-quality paper collections and detailed reading notes
 
 ---
 
@@ -97,13 +115,13 @@ This is the comprehensive catalog of AI-Open-Library, showcasing all curated lea
 
 如果你有优质的学习资料想要分享，请参考我们的 [贡献指南](./CONTRIBUTING.md)：
 
-- 📧 **邮件推荐**: junhuayao41@gmail.com
+- 📧 **邮件推荐**: [junhuayao41@gmail.com](mailto:junhuayao41@gmail.com)
 - 🐙 **GitHub Issue**: [提交资料推荐](https://github.com/huashanjian/AI-Open-Library/issues)
 - 📋 **推荐格式**: 请使用我们提供的模板
 
 If you have quality learning resources to share, please refer to our [Contribution Guide](./CONTRIBUTING.md):
 
-- 📧 **Email**: junhuayao41@gmail.com  
+- 📧 **Email**: [junhuayao41@gmail.com](mailto:junhuayao41@gmail.com)  
 - 🐙 **GitHub Issue**: [Submit Resource Recommendation](https://github.com/huashanjian/AI-Open-Library/issues)
 - 📋 **Format**: Please use our provided template
 
@@ -112,12 +130,14 @@ If you have quality learning resources to share, please refer to our [Contributi
 ## 🔄 更新记录 · Update Log
 
 ### 2025年9月21日
+ 
 - ✅ 创建资料库目录结构
 - ✅ 上传首批3份核心资源
 - ✅ 建立贡献者致谢机制
 - ✅ 完善资料分类体系
 
-### 期待下次更新...
+### 期待下次更新
+
 *我们期待社区的更多贡献，让这个知识库变得更加丰富和完善！*
 
 *We look forward to more community contributions to make this knowledge base richer and more comprehensive!*

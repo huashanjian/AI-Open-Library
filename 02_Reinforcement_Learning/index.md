@@ -70,6 +70,12 @@ Learning and collaboration of multiple agents in shared environments, including 
 - Decision Transformer Reinforcement Learning via Sequence Modeling — 决策 Transformer。/ Decision Transformer. [查看 View](../_library/Decision_Transformer_Reinforcement_Learning_via_Sequence_Modeling.pdf)
 - Model-based Reinforcement Learning A Survey — 模型化强化学习综述。/ Survey on MBRL. [查看 View](../_library/Model-based_Reinforcement_Learning_A_Survey.pdf)
 
+#### 📚 经典教材 / Classic Textbooks
+
+- Dynamic Programming and Optimal Control — Bertsekas 经典两卷本。/ Two-volume DP classic. [PDF](../_library/Dynamic_Programming_And_Optimal_Control_2014.pdf)
+- Reinforcement Learning and Optimal Control — Bertsekas RL 与最优控制。/ RL and optimal control. [PDF](../_library/Reinforcement_Learning_Bertsekas_Draft.pdf)
+- Markov Decision Processes: Discrete Stochastic Dynamic Programming — Puterman MDP 专著。/ Puterman's MDP classic. [PDF](../_library/Markov_Decision_Process.pdf)
+
 
 ## 相关主题 / Related Topics
 
