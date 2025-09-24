@@ -8,10 +8,10 @@ This is the comprehensive catalog of AI-Open-Library, showcasing all curated lea
 
 ## 📊 资料统计 · Statistics
 
-- **总资料数量 Total Resources**: 3
-- **覆盖主题 Topics Covered**: 6 个主题领域
+- **总资料数量 Total Resources**: 147
+- **覆盖主题 Topics Covered**: 12 个主题领域
 - **贡献者数量 Contributors**: 1+ (持续增长中)
-- **最近更新 Last Updated**: 2025年9月21日
+- **最近更新 Last Updated**: 2025年9月24日
 
 ---
 
@@ -61,11 +61,11 @@ This is the comprehensive catalog of AI-Open-Library, showcasing all curated lea
 
 *Looking forward to more foundational theory resources*
 
-### 🗣️ [05_自然语言处理与Transformers](./05_Natural_Language_Processing_and_Transformers/) · NLP & Transformers
+### 🧠 [05_LLMs_and_Transformers](./05_LLMs_and_Transformers/) · LLMs & Transformers
 
-欢迎补充与 NLP/LLM/Transformer 相关的高质量资料
+欢迎补充与大语言模型（LLM）、指令对齐（Instruction Tuning）、RLHF、Agent、系统提示工程、评测与安全相关的高质量资料
 
-We welcome recommendations for high-quality resources on NLP/LLMs/Transformers
+We welcome high-quality resources on LLMs, instruction tuning, RLHF, agent systems, prompt engineering, evaluation, and safety
 
 ### 📈 [06_训练动态与泛化机制](./06_Training_Dynamics_and_Generalization/) · Training Dynamics
 
@@ -91,13 +91,7 @@ We welcome academic writing resource recommendations
 
 We welcome high-quality resources on computer vision
 
-### 🗣️ [05_Natural_Language_Processing_and_Transformers](./05_Natural_Language_Processing_and_Transformers/) · NLP & Transformers
-
-NLP 与 Transformer/LLM 的核心资料入口（统计与神经方法、IE、MT、对话、指令微调等）
-
-Central entry for NLP and Transformers/LLMs (statistical and neural methods, IE, MT, dialogue, instruction tuning)
-
-### �🔍 [98_交互式工具与可视化](./98_Tools_and_Interactive_Demos/) · Tools & Visualization
+### 🔍 [98_交互式工具与可视化](./98_Tools_and_Interactive_Demos/) · Tools & Visualization
 
 期待实用工具和可视化资源
 

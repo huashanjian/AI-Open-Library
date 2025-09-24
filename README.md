@@ -23,9 +23,9 @@ Thanks to everyone who starred this project - your support drives our continuous
 | 链接 Links | 链接 Links | 链接 Links |
 | --- | --- | --- |
 | [00 世界模型与具身智能 / 00 World Models & Embodied AI](./00_World_Models_and_Embodied_AI/) | [01 深度学习 / 01 Deep Learning](./01_Deep_Learning/) | [02 强化学习 / 02 Reinforcement Learning](./02_Reinforcement_Learning/) |
-| [03 多智能体学习 / 03 Multi-Agent Learning](./03_Multi_Agent_Learning/) | [04 AI 基础理论 / 04 AI Foundations](./04_AI_Foundations/) | [05 自然语言处理与 Transformers / 05 NLP & Transformers](./05_Natural_Language_Processing_and_Transformers/) |
+| [03 多智能体学习 / 03 Multi-Agent Learning](./03_Multi_Agent_Learning/) | [04 AI 基础理论 / 04 AI Foundations](./04_AI_Foundations/) | [05 LLMs 与 Transformers / 05 LLMs & Transformers](./05_LLMs_and_Transformers/) |
 | [06 训练动态与泛化机制 / 06 Training Dynamics & Generalization](./06_Training_Dynamics_and_Generalization/) | [07 AI 伦理与社会 / 07 AI Ethics & Society](./07_AI_Ethics_and_Society/) | [08 科研写作与投稿 / 08 Research Writing & Publishing](./08_Research_Writing_and_Publishing/) |
-| [11 计算机视觉 / 11 Computer Vision](./11_Computer_Vision/) | [05 自然语言处理与 Transformers / 05 NLP & Transformers](./05_Natural_Language_Processing_and_Transformers/) | [98 交互式工具与可视化 / 98 Tools & Interactive Demos](./98_Tools_and_Interactive_Demos/) |
+| [11 计算机视觉 / 11 Computer Vision](./11_Computer_Vision/) |  | [98 交互式工具与可视化 / 98 Tools & Interactive Demos](./98_Tools_and_Interactive_Demos/) |
 | [99 论文整理与精读笔记 / 99 Paper Collections & Summaries](./99_Paper_Collections_and_Summaries/) | [📚 全部资料目录 / All Resources](./_library/index.md) |  |
 
 ---
@@ -58,7 +58,9 @@ Thanks to everyone who starred this project - your support drives our continuous
 * **`04_AI基础理论`**
     提供构建 AI 所需的数学工具：概率论、优化理论、信息论等，是理解上层模型的认知“钙质”。
 * **`05_Natural_Language_Processing_and_Transformers`**
-    研究语言的理解、生成与交互，以及 Transformer 与大语言模型的核心原理与方法，涵盖统计与神经方法、信息抽取、机器翻译、对话系统与指令微调等。
+    （已合并）传统与现代 NLP 主题入口现合并至 `05_LLMs_and_Transformers`。
+* **`05_LLMs_and_Transformers`**
+    聚焦 Transformer 与大语言模型的核心原理与方法，包括预训练、指令对齐（SFT、RLHF/RLAIF）、代理式系统（Agents）、提示工程、评测与安全等。
 * **`06_训练动态与泛化机制`**
     深入模型训练过程，探究损失函数、收敛行为与泛化能力之间的内在联系。
 * **`07_AI伦理与社会`**
@@ -114,6 +116,16 @@ Thanks to everyone who starred this project - your support drives our continuous
 
 ---
 
+#### **🧾 许可 / License**
+
+- 本仓库采用“双许可”模式：
+  - 内容与文档（Markdown、说明、维护者自制图示）：CC BY-NC-SA 4.0
+  - 代码与脚本（如 `scripts/`）：MIT
+- `_library/` 中的第三方 PDF 等资料版权归原作者/出版方所有，仅用于学习与研究；若权利人要求下线，请邮件至 `junhuayao41@gmail.com`，我们将尽快处理。
+- 详情见仓库根目录的 `LICENSE`。
+
+---
+
 #### **📖 English Overview**
 
 While learning resources for Artificial Intelligence are abundant, systematic knowledge structures are relatively scarce.
@@ -142,7 +154,9 @@ The purpose of this project is to build a knowledge base centered on "structured
 * **`04_AI_Foundations`**
     Provides the mathematical tools required for AI: probability theory, optimization, information theory, etc. This is the cognitive "calcium" for understanding higher-level models.
 * **`05_Natural_Language_Processing_and_Transformers`**
-    Studies language understanding, generation, and interaction, along with the core principles of Transformers and LLMs, spanning statistical and neural methods, IE, MT, dialogue, and instruction tuning.
+    (merged) NLP topics have been consolidated into `05_LLMs_and_Transformers`.
+* **`05_LLMs_and_Transformers`**
+    Focuses on Transformers and LLMs: pretraining, instruction tuning (SFT, RLHF/RLAIF), agent systems, prompt engineering, evaluation, and safety.
 * **`06_Training_Dynamics_and_Generalization`**
     A deeper look into the model training process, exploring the intrinsic connections between loss functions, convergence behavior, and generalization.
 * **`07_AI_Ethics_and_Society`**

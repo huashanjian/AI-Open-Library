@@ -5,13 +5,12 @@
 ### ⭐ 经典精选 / Canonical Picks
 
 - Attention Is All You Need — Transformer 开山之作。/ Foundational Transformer paper. [查看 View](../_library/Attention_Is_All_You_Need.pdf)
-- Language Models are Few-Shot Learners — GPT‑3 里程碑论文。/ GPT‑3 milestone. [查看 View](../_library/Language_Models_are_Few-Shot_Learners.pdf)
-- Training language models to follow instructions with human feedback — 指令微调与 RLHF 里程碑。/ Landmark instruction-following with human feedback. [查看 View](../_library/Training_language_models_to_follow_instructions_with_human_feedback.pdf)
+- Language Models are Few-Shot Learners — GPT‑3 具有代表性的论文。/ GPT‑3 representative paper. [查看 View](../_library/Language_Models_are_Few-Shot_Learners.pdf)
+- Training language models to follow instructions with human feedback — 指令微调与 RLHF 具有影响力的工作。/ Influential instruction-following with human feedback. [查看 View](../_library/Training_language_models_to_follow_instructions_with_human_feedback.pdf)
 
 ### 📄 更多资料 / More Resources
 
-- Attention Is All You Need — Transformer 开山之作。/ Foundational Transformer paper. [查看 View](../_library/Attention_Is_All_You_Need.pdf)
-- FlashAttention — 高效精确注意力实现。/ Fast exact attention. [查看 View](../_library/FlashAttention_Fast_and_Memory-Efficient_Exact_Attention_with_IO-Awareness.pdf)
+ - FlashAttention — 高效精确注意力实现。/ Fast exact attention. [查看 View](../_library/FlashAttention_Fast_and_Memory-Efficient_Exact_Attention_with_IO-Awareness.pdf)
 - LoRA: Low-Rank Adaptation — 参数高效微调。/ Parameter-efficient finetuning. [查看 View](../_library/LoRA_Low-Rank_Adaptation_of_Large_Language_Models.pdf)
 - Retrieval-Augmented Generation (RAG) — 检索增强生成。/ RAG overview. [查看 View](../_library/Retrieval-Augmented_Generation_for_Knowledge-Intensive_NLP_Tasks.pdf)
 - Direct Preference Optimization (DPO) — 直接偏好优化。/ DPO paper. [查看 View](../_library/Direct_Preference_Optimization_Your_Language_Model_is_Secretly_a_Reward_Model.pdf)
@@ -25,6 +24,11 @@
 - Self-Rewarding Language Models — 自奖励语言模型。/ Self-rewarding LMs. [查看 View](../_library/Self-Rewarding_Language_Models.pdf)
 - Efficient Training of LMs to Fill-in-the-Middle — FIM 训练。/ FIM training. [查看 View](../_library/Efficient_Training_of_Language_Models_to_Fill_in_the_Middle.pdf)
 
+### 📚 经典教材 / Classic Textbooks（NLP 子专题合并）
+
+ - Speech and Language Processing (3rd ed. draft) — NLP 教材草稿。/ SLP3 draft. [PDF](../_library/Speech_And_Language_Processing.pdf)
+ - Foundations of Statistical Natural Language Processing — 统计 NLP 教材。/ FSNLP. [PDF](../_library/Foundations_Of_Statistical_Natural_Language_Processing_By_Manning_Christopher_And_Schuetze_Hinrich.pdf)
+
 ---
 
-最后更新 / Last Updated: 2025-09-22
+最后更新 / Last Updated: 2025-09-24

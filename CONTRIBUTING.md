@@ -13,12 +13,12 @@ Feel free to suggest books, papers, course materials, or well-organized notes (a
 你可以通过以下方式提交资料推荐：
 
 - ✉️ 发送邮件至：**junhuayao41@gmail.com**  
-- 🐙 在本仓库创建 [GitHub Issue](https://github.com/your-repo-name/issues)（推荐使用标题 `📚 资料推荐`）
+ - 🐙 在本仓库创建 [GitHub Issue](https://github.com/huashanjian/AI-Open-Library/issues)（推荐使用标题 `📚 资料推荐`）
 
 Please send your recommendation via:
 
 - Email: **junhuayao41@gmail.com**
-- GitHub Issues: [Submit Here](https://github.com/your-repo-name/issues) (recommended title: `📚 Resource Suggestion`)
+ - GitHub Issues: [Submit Here](https://github.com/huashanjian/AI-Open-Library/issues) (recommended title: `📚 Resource Suggestion`)
 
 ---
 

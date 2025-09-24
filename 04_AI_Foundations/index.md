@@ -6,7 +6,7 @@
 
 - Information Theory, Inference, and Learning Algorithms (MacKay) — 信息论与推断经典教材。/ Classic text on information theory and inference. [查看 View](../_library/Information_Theory_Inference_And_Learning_Algorithms.pdf)
 - Understanding Machine Learning: From Theory to Algorithms — 现代机器学习理论教材。/ Modern ML theory textbook. [查看 View](../_library/understanding-machine-learning-theory-algorithms.pdf)
-- Convex Optimization (Boyd & Vandenberghe) — 凸优化权威教材。/ Authoritative convex optimization text. [查看 View](../_library/Convex_Optimization_Boyd_Vandenberghe.pdf)
+- Convex Optimization (Boyd & Vandenberghe) — 凸优化广受采用的教材。/ Widely adopted convex optimization text. [查看 View](../_library/Convex_Optimization_Boyd_Vandenberghe.pdf)
 - Numerical Optimization (Nocedal & Wright) — 数值优化经典。/ Classic in numerical optimization. [查看 View](../_library/Numerical_Optimization_Nocedal_Wright.pdf)
 
 ### 📄 更多资料 / More Resources

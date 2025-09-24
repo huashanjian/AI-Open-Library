@@ -30,8 +30,8 @@ Deep learning is the core technology of modern artificial intelligence, using mu
 
 ### ⭐ 经典精选 / Canonical Picks
 
-- Deep Residual Learning for Image Recognition — ResNet 里程碑论文。/ ResNet milestone paper. [查看 View](../_library/Deep_Residual_Learning_for_Image_Recognition.pdf)
-- Batch Normalization — 训练稳定性和速度的里程碑。/ Landmark method for stable and fast training. [查看 View](../_library/Batch_Normalization_Accelerating_Deep_Network_Training_by_Reducing_Internal_Covariate_Shift.pdf)
+- Deep Residual Learning for Image Recognition — ResNet 具有代表性的论文。/ Representative ResNet paper. [查看 View](../_library/Deep_Residual_Learning_for_Image_Recognition.pdf)
+- Batch Normalization — 提升训练稳定性与速度的重要方法。/ Influential method for stable and fast training. [查看 View](../_library/Batch_Normalization_Accelerating_Deep_Network_Training_by_Reducing_Internal_Covariate_Shift.pdf)
 - Adam: A Method for Stochastic Optimization — 随机优化经典算法。/ Classic optimizer. [查看 View](../_library/Adam_A_Method_for_Stochastic_Optimization.pdf)
 
 ### 📚 经典教材 / Classic Textbooks
@@ -56,7 +56,7 @@ This work experimentally reveals that deep networks can generalize well on test 
 ### 📄 更多资料 / More Resources
 
 - Information Theory, Inference, and Learning Algorithms (MacKay) — 信息论与推断经典教材。/ Classic information theory & inference text. [查看 View](../_library/Information_Theory_Inference_And_Learning_Algorithms.pdf)
-- Deep Residual Learning for Image Recognition — ResNet 里程碑论文。/ ResNet milestone paper. [查看 View](../_library/Deep_Residual_Learning_for_Image_Recognition.pdf)
+- Deep Residual Learning for Image Recognition — ResNet 具有代表性的论文。/ Representative ResNet paper. [查看 View](../_library/Deep_Residual_Learning_for_Image_Recognition.pdf)
 - Batch Normalization — 训练稳定性和速度的重要方法。/ BN for stable and fast training. [查看 View](../_library/Batch_Normalization_Accelerating_Deep_Network_Training_by_Reducing_Internal_Covariate_Shift.pdf)
 - Layer Normalization — 变长序列上的归一化方法。/ Normalization for sequences. [查看 View](../_library/Layer_Normalization.pdf)
 - Adam Optimizer — 随机优化领域的经典算法。/ Classic algorithm in stochastic optimization. [查看 View](../_library/Adam_A_Method_for_Stochastic_Optimization.pdf)
@@ -69,7 +69,7 @@ This work experimentally reveals that deep networks can generalize well on test 
 
 - **训练动态与泛化机制** / Training Dynamics and Generalization → [../06_Training_Dynamics_and_Generalization/](../06_Training_Dynamics_and_Generalization/)
 - **AI基础理论** / AI Foundations → [../04_AI_Foundations/](../04_AI_Foundations/)
-- **NLP 与 Transformers** / NLP & Transformers → [../05_Natural_Language_Processing_and_Transformers/](../05_Natural_Language_Processing_and_Transformers/)
+- **LLMs 与 Transformers** / LLMs & Transformers → [../05_LLMs_and_Transformers/](../05_LLMs_and_Transformers/)
 
 ## 学习建议 / Study Recommendations
 

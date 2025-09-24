@@ -43,7 +43,7 @@ Multi-agent learning is an important branch of artificial intelligence that stud
 **年份/Year**: 2024  
 **标签/Tags**: `多智能体强化学习` `协调` `博弈论` `MARL` `Coordination` `Game Theory`
 
-本书系统梳理了多智能体强化学习的基础理论与算法，包括centralized critic、self-play、自组织合作等重要机制。书中深入探讨了多智能体环境中的学习挑战，如非平稳性、部分可观察性、通信约束等问题，并提供了相应的解决方案。涵盖了从独立学习到联合学习的各种方法，是理解和实践多智能体系统的权威指南。
+本书系统梳理了多智能体强化学习的基础理论与算法，包括 centralized critic、self-play、自组织合作等机制；讨论多智能体环境中的学习挑战（如非平稳性、部分可观察性、通信约束）与对应方法，涵盖从独立学习到联合学习的多种思路。
 
 This book systematically outlines the foundations and algorithms of multi-agent reinforcement learning, including centralized critic, self-play, and emergent cooperation mechanisms. It explores learning challenges in multi-agent environments such as non-stationarity, partial observability, and communication constraints, providing corresponding solutions.
 
@@ -64,7 +64,7 @@ This book systematically outlines the foundations and algorithms of multi-agent 
 
 #### 📚 经典教材（已收录） / Classic Textbooks (Collected)
 
-- Algorithmic Game Theory — 算法博弈论权威文集。/ Authoritative compendium. [PDF](../_library/Algorithmic_Game_Theory.pdf)
+- Algorithmic Game Theory — 算法博弈论重要文集。/ Influential compendium. [PDF](../_library/Algorithmic_Game_Theory.pdf)
 - Multiagent Systems: A Modern Approach to Distributed AI — 多智能体系统经典教材（文集）。/ Classic textbook. [PDF](../_library/Multiagent_Systems_A_Modern_Approach_To_Distributed_Artificial_Intelligence_Gerhard_Weiss.pdf)
 - Distributed Control of Robotic Networks — 图论/一致性/分布式控制基础。/ Foundations in distributed control. [PDF](../_library/DCRN_Bullocortesmartinez_10mar09.pdf)
 

@@ -30,8 +30,8 @@ World models and embodied AI represent cutting-edge directions in artificial int
 
 ### ⭐ 经典精选 / Canonical Picks
 
-- Underactuated Robotics — 欠驱动机器人学经典教材，具身智能与控制的基础。/ Classic textbook on underactuated robotics and control foundations. [查看 View](../_library/Underactuated_Robotics_Russ_Tedrake.pdf)
-- World Models — 世界模型里程碑论文，提出“想象-计划-控制”范式。/ Landmark paper introducing generative world models for control. [查看 View](../_library/World_Models.pdf)
+- Underactuated Robotics — 欠驱动机器人学广受引用的教材。/ Widely cited textbook on underactuated robotics and control foundations. [查看 View](../_library/Underactuated_Robotics_Russ_Tedrake.pdf)
+- World Models — 世界模型方向具有影响力的论文。/ Influential paper introducing a generative modeling approach for control. [查看 View](../_library/World_Models.pdf)
 
 ### 📚 经典教材 / Classic Textbooks
 

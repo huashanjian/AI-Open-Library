@@ -1,0 +1,46 @@
+AI-Open-Library — Licensing
+
+Overview
+This repository uses a dual-license model to reflect the different nature of its contents:
+
+1) Content and Documentation (default)
+   - Scope: All non-code materials created for this repo, including Markdown pages, textual documentation, READMEs, images/diagrams created by the maintainers.
+   - License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+   - Summary: You may share and adapt the material for non‑commercial purposes, provided you give appropriate credit and distribute your contributions under the same license.
+   - Legal code: https://creativecommons.org/licenses/by-nc-sa/4.0/ (see also the full legal code linked there)
+
+2) Code (scripts and small utilities)
+   - Scope: Files under scripts/ and other source code snippets in this repository authored by the maintainers.
+   - License: MIT License (full text below)
+
+3) Third‑party Materials (important)
+   - Many PDFs and external resources under _library/ are works by third‑party authors or publishers.
+   - These are included strictly for educational, research, and non‑commercial purposes. All rights remain with the original rights holders.
+   - If you are a rights holder and believe any file or excerpt should not be publicly available here, please contact: junhuayao41@gmail.com. We will verify and remove it promptly.
+   - See also the Disclaimer in README for additional guidance. Nothing in this file constitutes legal advice.
+
+— — —
+
+MIT License (for code)
+
+Copyright (c) 2025 huashanjian
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
