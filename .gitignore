@@ -1,0 +1,43 @@
+# Local maintenance notes (never commit)
+Pending_Classics_By_Topic.md
+
+# Do not commit raw uploads/staging
+_library/_incoming/**
+!_library/_incoming/README.md
+_library/_staging/**
+_library/_temp/**
+
+# (Re-enabled) library directories: tracked via Git LFS instead of ignoring
+!_library/index.md
+!_library/_incoming/README.md
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Ignore Python scripts in scripts/ (we don't want to commit local utilities)
+scripts/*.py
+
+# Ignore all python source files across the repo (local utilities should not be committed)
+*.py
+
+# Ignore the scripts/ directory (local utilities not part of the published repo)
+scripts/**
+# Also ignore PowerShell helper scripts
+*.ps1
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+~*
