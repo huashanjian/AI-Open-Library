@@ -4,11 +4,65 @@
 
 ---
 
+## 🗓 2025年9月23上传 · Uploaded in Sep 23 2025
+
+---
+
+### 📗 Information Theory, Inference, and Learning Algorithms
+
+📂 所属主题 Topics:  
+[04 AI 基础理论 AI Foundations]  
+[01 深度学习 Deep Learning]
+📄 [点击查看 PDF · View PDF](./Information_Theory_Inference_And_Learning_Algorithms.pdf)  
+✍️ 作者 Author: David J.C. MacKay  
+🏷️ 标签 Tags: information theory / inference / coding / Bayesian  
+👥 推荐读者 Recommended For:  
+希望系统掌握信息论与推断、理解熵/编码/MDL/Bayesian 推断并将其应用于机器学习与深度学习理解的同学与研究者。
+
+📝 简介 Summary:  
+经典教材，从信息论与概率推断视角系统讲解压缩、信道编码、贝叶斯推断与近似推断，对理解现代机器学习与深度学习中的不确定性建模、泛化与正则化具有基础性价值。
+
+---
+
+### 📚 更多收录（简要） / More Collected (Compact)
+
+- Probabilistic Robotics — Thrun, Burgard, Fox. 概率方法在机器人定位、建图与 SLAM 的系统教材。 [PDF](./Thrun_Et_Al_2005_Probabilistic_Robotics.pdf)
+- Planning Algorithms — LaValle. 涵盖运动规划、采样法、最优规划与计算几何的综合教材。 [PDF](./Planning_Algorithms.pdf)
+- Modern Robotics: Mechanics, Planning, and Control — Lynch, Park. 机器人学的力学基础、位姿与规划控制入门到进阶。 [PDF](./Modern_Robotics.pdf)
+- Robot Modeling and Control — Spong, Hutchinson, Vidyasagar. 机器人建模、动力学与控制的经典教材。 [PDF](./Robot_Modeling_And_Control_Compress.pdf)
+- State Estimation for Robotics — Barfoot. 面向机器人状态估计与位姿图优化的实用教材。 [PDF](./State_Estimation_FOR_Robotics.pdf)
+- Feedback Systems — Åström, Murray. 反馈控制与系统分析的现代入门教材。 [PDF](./Astrom_Feedback_2006.pdf)
+- Dynamic Programming and Optimal Control — Bertsekas. 动态规划与最优控制的权威两卷本。 [PDF](./Dynamic_Programming_And_Optimal_Control_2014.pdf)
+- Reinforcement Learning and Optimal Control — Bertsekas. 强化学习与最优控制的系统论述。 [PDF](./Reinforcement_Learning_Bertsekas_Draft.pdf)
+- Markov Decision Processes — Puterman. 离散随机动态规划与 MDP 经典专著。 [PDF](./Markov_Decision_Process.pdf)
+- Algorithmic Game Theory — Nisan, Roughgarden, Tardos, Vazirani (eds.). 算法与博弈论交叉的权威文集。 [PDF](./Algorithmic_Game_Theory.pdf)
+- Multiagent Systems: A Modern Approach to Distributed AI — Weiss (ed.). 多智能体系统的经典文集式教材。 [PDF](./Multiagent_Systems_A_Modern_Approach_To_Distributed_Artificial_Intelligence_Gerhard_Weiss.pdf)
+- Distributed Control of Robotic Networks — Bullo, Cortés, Martínez. 基于图论的一致性与分布式控制入门。 [PDF](./DCRN_Bullocortesmartinez_10mar09.pdf)
+- The Nature of Statistical Learning Theory — Vapnik. 统计学习理论与 VC 维的奠基性著作。 [PDF](./Vladimir_Vapnik_The_Nature_Of_Statistical_Learning_Springer_2010.pdf)
+- Foundations of Machine Learning — Mohri, Rostamizadeh, Talwalkar. 现代机器学习理论教材（Rademacher 等）。 [PDF](./Foundations_of_Machine_Learning.pdf)
+- Probability Theory: The Logic of Science — Jaynes. 概率论作为扩展逻辑的系统论述。 [PDF](./JaynesProbabilityTheory.pdf)
+- All of Statistics — Wasserman. 统计学习与数据科学的速成教材。 [PDF](./All_Of_Statistics_Wasserman_Larry.pdf)
+- Speech and Language Processing (3rd ed. draft) — Jurafsky, Martin. NLP 全景式权威教材（新版草稿）。 [PDF](./Speech_And_Language_Processing.pdf)
+- Foundations of Statistical Natural Language Processing — Manning, Schütze. 统计 NLP 经典教材。 [PDF](./Foundations_Of_Statistical_Natural_Language_Processing_By_Manning_Christopher_And_Schuetze_Hinrich.pdf)
+- High-Dimensional Probability — Vershynin. 高维概率、集中不等式与应用入门。 [PDF](./High_Dimensional_Probability_An_Introduction_With_Applications_In_Data_Science.pdf)
+- Human Compatible — Stuart Russell. 以人为本与可控的 AI 设计原则。 [PDF](./Human_Compatible_Artificial_Intelligence_And_The_Problem_Of_Control_Stuart_Russell.pdf)
+- Superintelligence — Nick Bostrom. 超人工智能的路径、风险与策略讨论。 [PDF](./Superintelligence_Paths_Dangers_Strategies_By_Nick_Bostrom.pdf)
+- The Ethical Algorithm — Kearns, Roth. 隐私、公平与机制设计的算法视角。 [PDF](./The_Ethical_Algorithm_The_Science_Of_Socially_Aware_Algorithm_Design_Michael_Kearns_Aaron_Roth_Z_Library.pdf)
+- Fairness and Machine Learning — Barocas, Hardt, Narayanan. 机器学习公平性的系统教材（开源）。 [PDF](./fairmlbook.pdf)
+- Computer Vision: Algorithms and Applications — Szeliski. 计算机视觉从图像形成到识别与重建的系统教材。 [PDF](./Szeliski_CVAABook_2ndEd.pdf)
+- Digital Image Processing — Gonzalez, Woods. 数字图像处理的经典入门与进阶教材。 [PDF](./Digital_Image_Processing_Compress.pdf)
+- Multiple View Geometry in Computer Vision — Hartley, Zisserman. 多视几何与位姿估计的权威教材。 [PDF](./Multiple_View_Geometry_In_Computer_Vision_Second_Edition.pdf)
+- An Invitation to 3D Vision — Ma, Soatto, Kosecka, Sastry. 3D 视觉与几何方法的入门教材。 [PDF](./An_Invitation_To_3_D_Vision.pdf)
+- Probabilistic Machine Learning: An Introduction — Murphy. 概率机器学习入门（新版 PML）。 [PDF](./Probabilistic_Machine_Learning_An_Introduction.pdf)
+- Probabilistic Machine Learning: Advanced Topics — Murphy. 概率机器学习进阶（新版 PML）。 [PDF](./Probabilistic_Machine_Learning_Advanced_Topics.pdf)
+- Bayesian Reasoning and Machine Learning — Barber. 贝叶斯机器学习教材。 [PDF](./BayesReasoningML.pdf)
+
 ## 🗓 2025年9月21上传 · Uploaded in Sep 21 2025
 
 ---
 
 ### 📘 Understanding Deep Learning Requires Rethinking Generalization  
+
 📂 所属主题 Topics:  
 [06 训练动态与泛化机制 Training Dynamics & Generalization]  
 [01 深度学习基础 Deep Learning]  
@@ -26,6 +80,7 @@ This work experimentally reveals that deep networks can generalize well on test 
 ---
 
 ### 🤖 Underactuated Robotics  
+
 📂 所属主题 Topics:  
 [00 世界模型与具身智能 World Models & Embodied AI]  
 [02 强化学习 Reinforcement Learning]  
@@ -43,6 +98,7 @@ This textbook introduces modeling and control strategies for underactuated robot
 ---
 
 ### 🤝 Multi-Agent Reinforcement Learning Foundations  
+
 📂 所属主题 Topics:  
 [03 多智能体学习 Multi-Agent Learning]  
 [02 强化学习 Reinforcement Learning]  
