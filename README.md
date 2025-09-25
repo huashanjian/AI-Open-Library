@@ -157,10 +157,10 @@ The purpose of this project is to build a knowledge base centered on "structured
     A deeper look into the model training process, exploring the intrinsic connections between loss functions, convergence behavior, and generalization.
 * **`07_AI_Ethics_and_Society`**
     Addresses the societal impact of AI technology, discussing key issues such as bias, governance, and alignment.
-* **`97_Research_Writing_and_Publishing`**
-    A practical guide to academic research and communication, covering the entire process from problem definition to publication.
 * **`08_Computer_Vision`**
     Studies understanding and reconstruction from images/videos, including geometric vision, recognition/detection, 3D perception, and generative methods.
+* **`97_Research_Writing_and_Publishing`**
+    A practical guide to academic research and communication, covering the entire process from problem definition to publication.
 * **`98_Tools_and_Interactive_Demos`**
     A curated collection of visualization tools and interactive demos to provide an intuitive aid for understanding abstract models and algorithms.
 * **`99_Paper_Collections_and_Summaries`**
