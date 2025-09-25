@@ -70,6 +70,7 @@ This is the comprehensive catalog of AI-Open-Library, showcasing all curated lea
 - 📄 Probability Theory: The Logic of Science — Jaynes. [PDF](./_library/JaynesProbabilityTheory.pdf)
 - 📄 All of Statistics — Wasserman. [PDF](./_library/All_Of_Statistics_Wasserman_Larry.pdf)
 - 📄 Vectors, Matrices, and Least Squares (VMLS) — Boyd. [PDF](./_library/Vectors_Matrices_and_Least_Squares_Boyd.pdf)
+- 📄 High-Dimensional Probability — Vershynin. 高维概率与集中不等式 / high-dimensional probability. [PDF](./_library/High_Dimensional_Probability_An_Introduction_With_Applications_In_Data_Science.pdf)
 
 ### 🧠 [05_LLMs_and_Transformers](./05_LLMs_and_Transformers/) · LLMs & Transformers
 
