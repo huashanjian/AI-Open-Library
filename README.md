@@ -57,8 +57,7 @@ Thanks to everyone who starred this project - your support drives our continuous
     研究多智能体环境下的博弈、协作与通信问题。
 * **`04_AI基础理论`**
     提供构建 AI 所需的数学工具：概率论、优化理论、信息论等，是理解上层模型的认知“钙质”。
-* **`05_Natural_Language_Processing_and_Transformers`**
-    （已合并）传统与现代 NLP 主题入口现合并至 `05_LLMs_and_Transformers`（本目录已移除）。
+<!-- 旧目录已移除：05_Natural_Language_Processing_and_Transformers -->
 * **`05_LLMs_and_Transformers`**
     聚焦 Transformer 与大语言模型的核心原理与方法，包括预训练、指令对齐（SFT、RLHF/RLAIF）、代理式系统（Agents）、提示工程、评测与安全等。
 * **`06_训练动态与泛化机制`**
@@ -153,8 +152,7 @@ The purpose of this project is to build a knowledge base centered on "structured
     Studies the problems of game theory, cooperation, and communication in multi-agent environments.
 * **`04_AI_Foundations`**
     Provides the mathematical tools required for AI: probability theory, optimization, information theory, etc. This is the cognitive "calcium" for understanding higher-level models.
-* **`05_Natural_Language_Processing_and_Transformers`**
-    (merged) NLP topics have been consolidated into `05_LLMs_and_Transformers` (this folder has been removed).
+<!-- Removed legacy folder: 05_Natural_Language_Processing_and_Transformers -->
 * **`05_LLMs_and_Transformers`**
     Focuses on Transformers and LLMs: pretraining, instruction tuning (SFT, RLHF/RLAIF), agent systems, prompt engineering, evaluation, and safety.
 * **`06_Training_Dynamics_and_Generalization`**
