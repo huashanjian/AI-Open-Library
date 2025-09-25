@@ -20,13 +20,12 @@ Thanks to everyone who starred this project - your support drives our continuous
 
 ## 🧭 快速导航 / Quick Navigation
 
-| 链接 Links | 链接 Links | 链接 Links |
-| --- | --- | --- |
-| [00 世界模型与具身智能 / 00 World Models & Embodied AI](./00_World_Models_and_Embodied_AI/) | [01 深度学习 / 01 Deep Learning](./01_Deep_Learning/) | [02 强化学习 / 02 Reinforcement Learning](./02_Reinforcement_Learning/) |
-| [03 多智能体学习 / 03 Multi-Agent Learning](./03_Multi_Agent_Learning/) | [04 AI 基础理论 / 04 AI Foundations](./04_AI_Foundations/) | [05 LLMs 与 Transformers / 05 LLMs & Transformers](./05_LLMs_and_Transformers/) |
-| [06 训练动态与泛化机制 / 06 Training Dynamics & Generalization](./06_Training_Dynamics_and_Generalization/) | [07 AI 伦理与社会 / 07 AI Ethics & Society](./07_AI_Ethics_and_Society/) | [08 科研写作与投稿 / 08 Research Writing & Publishing](./08_Research_Writing_and_Publishing/) |
-| [11 计算机视觉 / 11 Computer Vision](./11_Computer_Vision/) |  | [98 交互式工具与可视化 / 98 Tools & Interactive Demos](./98_Tools_and_Interactive_Demos/) |
-| [99 论文整理与精读笔记 / 99 Paper Collections & Summaries](./99_Paper_Collections_and_Summaries/) | [📚 全部资料目录 / All Resources](./_library/index.md) |  |
+| 链接 Links | 链接 Links | 链接 Links | 链接 Links |
+| --- | --- | --- | --- |
+| [00 世界模型与具身智能 / 00 World Models & Embodied AI](./00_World_Models_and_Embodied_AI/) | [01 深度学习 / 01 Deep Learning](./01_Deep_Learning/) | [02 强化学习 / 02 Reinforcement Learning](./02_Reinforcement_Learning/) | [03 多智能体学习 / 03 Multi-Agent Learning](./03_Multi_Agent_Learning/) |
+| [04 AI 基础理论 / 04 AI Foundations](./04_AI_Foundations/) | [05 LLMs 与 Transformers / 05 LLMs & Transformers](./05_LLMs_and_Transformers/) | [06 训练动态与泛化机制 / 06 Training Dynamics & Generalization](./06_Training_Dynamics_and_Generalization/) | [07 AI 伦理与社会 / 07 AI Ethics & Society](./07_AI_Ethics_and_Society/) |
+| [08 科研写作与投稿 / 08 Research Writing & Publishing](./08_Research_Writing_and_Publishing/) | [11 计算机视觉 / 11 Computer Vision](./11_Computer_Vision/) | [98 交互式工具与可视化 / 98 Tools & Interactive Demos](./98_Tools_and_Interactive_Demos/) | [99 论文整理与精读笔记 / 99 Paper Collections & Summaries](./99_Paper_Collections_and_Summaries/) |
+| [📚 全部资料目录 / All Resources](./_library/index.md) | [🤝 贡献指南 / Contribution Guide](./CONTRIBUTING.md) | [🏆 资料总目录 / Library Catalog](./library_catalog.md) | [🧾 许可 / License](./LICENSE) |
 
 ---
 
