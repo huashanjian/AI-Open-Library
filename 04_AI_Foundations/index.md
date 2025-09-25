@@ -36,5 +36,7 @@
 - **03 多智能体学习 / Multi-Agent Learning** → [../03_Multi_Agent_Learning/](../03_Multi_Agent_Learning/) — 博弈论与分布式系统 / game theory and distributed systems
 - **05 LLMs 与 Transformers / LLMs & Transformers** → [../05_LLMs_and_Transformers/](../05_LLMs_and_Transformers/) — 序列建模与近似推断 / sequence modeling and approximate inference
 - **06 训练动态与泛化 / Training Dynamics and Generalization** → [../06_Training_Dynamics_and_Generalization/](../06_Training_Dynamics_and_Generalization/) — 泛化理论与优化景观 / generalization and optimization landscapes
+- **08 计算机视觉 / Computer Vision** → [../08_Computer_Vision/](../08_Computer_Vision/) — 几何/优化/概率 / geometry, optimization, probability
+- **97 科研写作与投稿 / Research Writing and Publishing** → [../97_Research_Writing_and_Publishing/](../97_Research_Writing_and_Publishing/) — 学术表述 / academic writing
 
 最后更新 / Last Updated: 2025-09-22

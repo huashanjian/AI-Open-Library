@@ -85,7 +85,7 @@ Learning and collaboration of multiple agents in shared environments, including 
 - **04 AI 基础理论 / AI Foundations** → [../04_AI_Foundations/](../04_AI_Foundations/) — 概率/优化/决策理论 / probability, optimization, decision theory
 - **05 LLMs 与 Transformers / LLMs & Transformers** → [../05_LLMs_and_Transformers/](../05_LLMs_and_Transformers/) — 序列决策与建模借鉴 / inspirations for sequential modeling
 - **06 训练动态与泛化 / Training Dynamics and Generalization** → [../06_Training_Dynamics_and_Generalization/](../06_Training_Dynamics_and_Generalization/) — 训练行为与稳定性 / training behavior and stability
-- **11 计算机视觉 / Computer Vision** → [../11_Computer_Vision/](../11_Computer_Vision/) — 视觉强化学习与感知耦合 / vision-RL coupling
+- **08 计算机视觉 / Computer Vision** → [../08_Computer_Vision/](../08_Computer_Vision/) — 视觉强化学习与感知耦合 / vision-RL coupling
 
 ## 学习建议 / Study Recommendations
 

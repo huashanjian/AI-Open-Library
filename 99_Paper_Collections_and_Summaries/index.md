@@ -25,4 +25,4 @@
 - **03 多智能体学习 / Multi-Agent Learning** → [../03_Multi_Agent_Learning/](../03_Multi_Agent_Learning/) — MARL 综述 / MARL surveys
 - **04 AI 基础理论 / AI Foundations** → [../04_AI_Foundations/](../04_AI_Foundations/) — 理论综述 / theory surveys
 - **05 LLMs 与 Transformers / LLMs & Transformers** → [../05_LLMs_and_Transformers/](../05_LLMs_and_Transformers/) — LLM/Transformers 综述 / LLM and Transformers surveys
-- **11 计算机视觉 / Computer Vision** → [../11_Computer_Vision/](../11_Computer_Vision/) — CV 综述 / CV surveys
+- **08 计算机视觉 / Computer Vision** → [../08_Computer_Vision/](../08_Computer_Vision/) — CV 综述 / CV surveys

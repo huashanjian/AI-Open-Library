@@ -79,8 +79,8 @@ This textbook introduces modeling and control strategies for underactuated robot
 - **04 AI 基础理论 / AI Foundations** → [../04_AI_Foundations/](../04_AI_Foundations/) — 概率/优化/控制理论支撑 / probability, optimization, control
 - **05 LLMs 与 Transformers / LLMs & Transformers** → [../05_LLMs_and_Transformers/](../05_LLMs_and_Transformers/) — 序列建模与对齐方法 / sequence modeling and alignment
 - **06 训练动态与泛化 / Training Dynamics and Generalization** → [../06_Training_Dynamics_and_Generalization/](../06_Training_Dynamics_and_Generalization/) — 训练行为与泛化 / training behavior and generalization
-- **11 计算机视觉 / Computer Vision** → [../11_Computer_Vision/](../11_Computer_Vision/) — 感知与几何重建 / perception and geometry
-- **08 科研写作与投稿 / Research Writing and Publishing** → [../08_Research_Writing_and_Publishing/](../08_Research_Writing_and_Publishing/) — 实验报告与论文撰写 / reporting and writing
+- **08 计算机视觉 / Computer Vision** → [../08_Computer_Vision/](../08_Computer_Vision/) — 感知与几何重建 / perception and geometry
+- **97 科研写作与投稿 / Research Writing and Publishing** → [../97_Research_Writing_and_Publishing/](../97_Research_Writing_and_Publishing/) — 实验报告与论文撰写 / reporting and writing
 
 ## 学习建议 / Study Recommendations
 

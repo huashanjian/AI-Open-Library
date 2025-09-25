@@ -74,8 +74,8 @@ This work experimentally reveals that deep networks can generalize well on test 
 - **05 LLMs 与 Transformers / LLMs & Transformers** → [../05_LLMs_and_Transformers/](../05_LLMs_and_Transformers/) — 架构与方法 / architectures and methods
 - **06 训练动态与泛化 / Training Dynamics and Generalization** → [../06_Training_Dynamics_and_Generalization/](../06_Training_Dynamics_and_Generalization/) — 训练行为与泛化 / training behavior and generalization
 - **07 AI 伦理与社会 / AI Ethics & Society** → [../07_AI_Ethics_and_Society/](../07_AI_Ethics_and_Society/) — 公平/安全/治理 / fairness, safety, governance
-- **08 科研写作与投稿 / Research Writing and Publishing** → [../08_Research_Writing_and_Publishing/](../08_Research_Writing_and_Publishing/) — 写作与发表 / writing and publishing
-- **11 计算机视觉 / Computer Vision** → [../11_Computer_Vision/](../11_Computer_Vision/) — 视觉应用 / vision applications
+- **08 计算机视觉 / Computer Vision** → [../08_Computer_Vision/](../08_Computer_Vision/) — 视觉应用 / vision applications
+- **97 科研写作与投稿 / Research Writing and Publishing** → [../97_Research_Writing_and_Publishing/](../97_Research_Writing_and_Publishing/) — 写作与发表 / writing and publishing
 
 ## 学习建议 / Study Recommendations
 

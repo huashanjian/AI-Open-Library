@@ -21,4 +21,4 @@
 - **03 多智能体学习 / Multi-Agent Learning** → [../03_Multi_Agent_Learning/](../03_Multi_Agent_Learning/) — 协作仿真工具 / cooperative simulators
 - **04 AI 基础理论 / AI Foundations** → [../04_AI_Foundations/](../04_AI_Foundations/) — 数学与优化工具 / math and optimization tools
 - **05 LLMs 与 Transformers / LLMs & Transformers** → [../05_LLMs_and_Transformers/](../05_LLMs_and_Transformers/) — LLM 实验与评测 / LLM experiments and evaluation
-- **11 计算机视觉 / Computer Vision** → [../11_Computer_Vision/](../11_Computer_Vision/) — 标注与可视化 / annotation and visualization
+- **08 计算机视觉 / Computer Vision** → [../08_Computer_Vision/](../08_Computer_Vision/) — 标注与可视化 / annotation and visualization

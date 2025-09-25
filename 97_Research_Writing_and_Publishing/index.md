@@ -26,4 +26,4 @@
 - **03 多智能体学习 / Multi-Agent Learning** → [../03_Multi_Agent_Learning/](../03_Multi_Agent_Learning/) — 协作实验与报告 / collaborative experiments and reporting
 - **04 AI 基础理论 / AI Foundations** → [../04_AI_Foundations/](../04_AI_Foundations/) — 理论背景陈述 / theoretical background
 - **05 LLMs 与 Transformers / LLMs & Transformers** → [../05_LLMs_and_Transformers/](../05_LLMs_and_Transformers/) — LLM 评测与协议 / LLM evaluation and protocols
-- **11 计算机视觉 / Computer Vision** → [../11_Computer_Vision/](../11_Computer_Vision/) — 视觉论文结构 / CV paper structure
+- **08 计算机视觉 / Computer Vision** → [../08_Computer_Vision/](../08_Computer_Vision/) — 视觉论文结构 / CV paper structure

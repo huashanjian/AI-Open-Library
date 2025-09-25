@@ -88,12 +88,12 @@ This is the comprehensive catalog of AI-Open-Library, showcasing all curated lea
 - 📄 Superintelligence — Nick Bostrom. [PDF](./_library/Superintelligence_Paths_Dangers_Strategies_By_Nick_Bostrom.pdf)
 - 📄 Red Teaming Language Models to Reduce Harms — Anthropic. [PDF](./_library/Red_Teaming_Language_Models_to_Reduce_Harms_Methods,_Scaling_Behaviors,_and_Lessons_Learned.pdf)
 
-### ✍️ [08_科研写作与投稿](./08_Research_Writing_and_Publishing/) · Research Writing
+### ✍️ [97_科研写作与投稿](./97_Research_Writing_and_Publishing/) · Research Writing
 
 - 📄 How to Write a Great Research Paper — Lipton. [PDF](./_library/How_to_Write_a_Great_Research_Paper.pdf)
 - 📄 Software Engineering for Machine Learning — Best practices. [PDF](./_library/Software_Engineering_for_Machine_Learning.pdf)
 
-### 🖼️ [11_计算机视觉](./11_Computer_Vision/) · Computer Vision
+### 🖼️ [08_计算机视觉](./08_Computer_Vision/) · Computer Vision
 
 - 📄 Computer Vision: Algorithms and Applications — Szeliski. [PDF](./_library/Szeliski_CVAABook_2ndEd.pdf)
 - 📄 Digital Image Processing — Gonzalez & Woods. [PDF](./_library/Digital_Image_Processing_Compress.pdf)

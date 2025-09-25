@@ -30,4 +30,5 @@
 - **03 多智能体学习 / Multi-Agent Learning** → [../03_Multi_Agent_Learning/](../03_Multi_Agent_Learning/) — 互动风险与治理 / interaction risks and governance
 - **04 AI 基础理论 / AI Foundations** → [../04_AI_Foundations/](../04_AI_Foundations/) — 公平性与信息论工具 / fairness and information-theoretic tools
 - **05 LLMs 与 Transformers / LLMs & Transformers** → [../05_LLMs_and_Transformers/](../05_LLMs_and_Transformers/) — 对齐/评测/安全 / alignment, evaluation, safety
-- **08 科研写作与投稿 / Research Writing and Publishing** → [../08_Research_Writing_and_Publishing/](../08_Research_Writing_and_Publishing/) — 伦理声明与复现 / ethics statements and reproducibility
+- **08 计算机视觉 / Computer Vision** → [../08_Computer_Vision/](../08_Computer_Vision/) — 多模态与风险 / multimodal risks
+- **97 科研写作与投稿 / Research Writing and Publishing** → [../97_Research_Writing_and_Publishing/](../97_Research_Writing_and_Publishing/) — 伦理声明与复现 / ethics statements and reproducibility

@@ -77,6 +77,8 @@ This book systematically outlines the foundations and algorithms of multi-agent 
 - **04 AI 基础理论 / AI Foundations** → [../04_AI_Foundations/](../04_AI_Foundations/) — 博弈/优化/概率工具 / game theory, optimization, probability
 - **05 LLMs 与 Transformers / LLMs & Transformers** → [../05_LLMs_and_Transformers/](../05_LLMs_and_Transformers/) — 多智能体通信与语言建模 / communication and language modeling
 - **06 训练动态与泛化 / Training Dynamics and Generalization** → [../06_Training_Dynamics_and_Generalization/](../06_Training_Dynamics_and_Generalization/) — 非平稳性与泛化 / non-stationarity and generalization
+- **08 计算机视觉 / Computer Vision** → [../08_Computer_Vision/](../08_Computer_Vision/) — 多视协作与感知 / multi-view and perception
+- **97 科研写作与投稿 / Research Writing and Publishing** → [../97_Research_Writing_and_Publishing/](../97_Research_Writing_and_Publishing/) — 论文写作 / writing
 - **LLMs 与 Transformers** / LLMs & Transformers → [../05_LLMs_and_Transformers/](../05_LLMs_and_Transformers/)
 
 ## 学习建议 / Study Recommendations

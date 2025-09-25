@@ -74,7 +74,7 @@ This work experimentally reveals that deep networks can generalize well on test 
 - **03 多智能体学习 / Multi-Agent Learning** → [../03_Multi_Agent_Learning/](../03_Multi_Agent_Learning/) — 非平稳性与泛化挑战 / non-stationarity and generalization
 - **04 AI 基础理论 / AI Foundations** → [../04_AI_Foundations/](../04_AI_Foundations/) — 泛化界与复杂度 / bounds and complexity
 - **05 LLMs 与 Transformers / LLMs & Transformers** → [../05_LLMs_and_Transformers/](../05_LLMs_and_Transformers/) — 规模定律与训练技巧 / scaling laws and training
-- **11 计算机视觉 / Computer Vision** → [../11_Computer_Vision/](../11_Computer_Vision/) — 视觉模型训练 / vision model training
+- **08 计算机视觉 / Computer Vision** → [../08_Computer_Vision/](../08_Computer_Vision/) — 视觉模型训练 / vision model training
 
 ## 学习建议 / Study Recommendations
 
