@@ -38,12 +38,16 @@ This is the comprehensive catalog of AI-Open-Library, showcasing all curated lea
   - 类型: 教材 Textbook
   - 标签: robotics, dynamics, control systems
   - 推荐读者: 机器人学习初学者、具身智能研究者
+ - 📄 World Models — Ha & Schmidhuber. 生成世界模型与控制框架 / generative world models for control. [PDF](./_library/World_Models.pdf)
+ - 📄 Planning Algorithms — LaValle. 运动规划/最优/采样等综述式教材 / comprehensive planning text. [PDF](./_library/Planning_Algorithms.pdf)
 
 ### 🧠 [01_深度学习](./01_Deep_Learning/) · Deep Learning Foundations  
 - 📄 **Understanding Deep Learning Requires Rethinking Generalization** 
   - 类型: 学术论文 Research Paper
   - 标签: generalization, deep learning theory
   - 推荐读者: 深度学习理论研究者
+ - 📄 Deep Residual Learning for Image Recognition — ResNet 代表性论文 / representative ResNet paper. [PDF](./_library/Deep_Residual_Learning_for_Image_Recognition.pdf)
+ - 📄 Batch Normalization — 提升训练稳定性与速度的重要方法 / influential method for stable and fast training. [PDF](./_library/Batch_Normalization_Accelerating_Deep_Network_Training_by_Reducing_Internal_Covariate_Shift.pdf)
 
 ### 🎯 [02_强化学习](./02_Reinforcement_Learning/) · Reinforcement Learning
 - 📄 **Underactuated Robotics** (交叉领域)
@@ -55,6 +59,8 @@ This is the comprehensive catalog of AI-Open-Library, showcasing all curated lea
 - 📄 **Multi-Agent Reinforcement Learning Foundations**
   - 类型: 专业教材 Specialized Textbook
   - 标签: multi-agent systems, coordination algorithms
+ - 📄 The StarCraft Multi-Agent Challenge — SC2 多智能体基准 / SMAC benchmark. [PDF](./_library/The_StarCraft_Multi-Agent_Challenge.pdf)
+ - 📄 The Hanabi Challenge — 协作博弈挑战 / cooperative benchmark. [PDF](./_library/The_Hanabi_Challenge_A_New_Frontier_for_AI_Research.pdf)
 
 ### 📐 [04_AI基础理论](./04_AI_Foundations/) · AI Foundations
 - 📄 Information Theory, Inference, and Learning Algorithms — MacKay. [PDF](./_library/Information_Theory_Inference_And_Learning_Algorithms.pdf)
@@ -79,6 +85,8 @@ This is the comprehensive catalog of AI-Open-Library, showcasing all curated lea
 - 📄 **Understanding Deep Learning Requires Rethinking Generalization**
   - 类型: 具有影响力的论文 Influential Paper
   - 影响: 推动了深度学习泛化理论的讨论
+ - 📄 Scaling Laws for Neural Language Models — 规模定律研究 / scaling laws. [PDF](./_library/Scaling_Laws_for_Neural_Language_Models.pdf)
+ - 📄 Layer Normalization — 变长序列上的归一化方法 / normalization for sequences. [PDF](./_library/Layer_Normalization.pdf)
 
 ### 🤔 [07_AI伦理与社会](./07_AI_Ethics_and_Society/) · AI Ethics & Society
 
@@ -92,6 +100,8 @@ This is the comprehensive catalog of AI-Open-Library, showcasing all curated lea
 
 - 📄 How to Write a Great Research Paper — Lipton. [PDF](./_library/How_to_Write_a_Great_Research_Paper.pdf)
 - 📄 Software Engineering for Machine Learning — Best practices. [PDF](./_library/Software_Engineering_for_Machine_Learning.pdf)
+ - 📄 Writing for Computer Science — Zobel. 学术写作实用指南 / practical guide. [PDF](./_library/Writing_for_Computer_Science.pdf)
+ - 📄 The Craft of Research — Booth, Colomb, Williams. 研究方法与学术写作入门 / research and academic writing. [PDF](./_library/The_Craft_of_Research.pdf)
 
 ### 🖼️ [08_计算机视觉](./08_Computer_Vision/) · Computer Vision
 
@@ -102,15 +112,13 @@ This is the comprehensive catalog of AI-Open-Library, showcasing all curated lea
 
 ### 🔍 [98_交互式工具与可视化](./98_Tools_and_Interactive_Demos/) · Tools & Visualization
 
-期待实用工具和可视化资源
-
-We welcome practical tools and visualization resources
+- 📄 Software Engineering for Machine Learning — 工程实践要点与工具流程 / ML engineering practices and tooling. [PDF](./_library/Software_Engineering_for_Machine_Learning.pdf)
 
 ### 📄 [99_论文整理与精读笔记](./99_Paper_Collections_and_Summaries/) · Paper Collections
 
-期待高质量论文合集和精读笔记
-
-Looking forward to high-quality paper collections and detailed reading notes
+- 📄 A Survey and Critique of Multiagent Deep Reinforcement Learning — 多智能体深度强化学习综述与评述 / MARL survey and critique. [PDF](./_library/A_Survey_and_Critique_of_Multiagent_Deep_Reinforcement_Learning.pdf)
+- 📄 Model-based Reinforcement Learning: A Survey — 模型化强化学习综述 / MBRL survey. [PDF](./_library/Model-based_Reinforcement_Learning_A_Survey.pdf)
+- 📄 Object Detection with Transformers: A Review — 目标检测与 Transformer 综述 / DETR review. [PDF](./_library/Object_Detection_with_Transformers_A_Review.pdf)
 
 ---
 
